@@ -12,18 +12,88 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Install AWS CLI
         run: |
           pip install awscli
 
-      - name: Zip Translation Folders
+      - name: Identify Changed USFM Files
+        id: usfm_files
+        run: |
+          files=$(git diff --name-only ${{ github.sha }}^ ${{ github.sha }} -- '*.usfm' | tr '\n' ' ')
+          echo "Changed USFM files: $files"
+          echo "files=$files" >> "$GITHUB_OUTPUT"
+
+      - name: Install Rust Toolchain
+        if: steps.usfm_files.outputs.files != ''
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Validate USFM Files
+        if: steps.usfm_files.outputs.files != ''
+        run: |
+          mkdir -p /tmp/usfm-validator
+          cd /tmp/usfm-validator
+          cargo init --name usfm-validator
+          cat >> Cargo.toml <<'TOML'
+          usfm = "0.2.0"
+          TOML
+
+          cat > src/main.rs <<'RUST'
+          use std::env;
+          use std::fs;
+          use std::process;
+
+          fn main() {
+            let args: Vec<String> = env::args().skip(1).collect();
+            if args.is_empty() {
+              println!("No USFM files to validate.");
+              return;
+            }
+
+            let mut failed = false;
+            for path in &args {
+              let contents = match fs::read_to_string(path) {
+                Ok(c) => c,
+                Err(e) => {
+                  eprintln!("FAIL: {} (could not read: {})", path, e);
+                  failed = true;
+                  continue;
+                }
+              };
+              match usfm::parse(&contents) {
+                Ok(_) => println!("PASS: {}", path),
+                Err(e) => {
+                  eprintln!("FAIL: {} ({:?})", path, e);
+                  failed = true;
+                }
+              }
+            }
+            if failed {
+              process::exit(1);
+            }
+          }
+          RUST
+
+          cargo build --release
+          cd ${{ github.workspace }}
+          /tmp/usfm-validator/target/release/usfm-validator ${{ steps.usfm_files.outputs.files }}
+
+      - name: Determine Changed Translations
+        id: changes
+        run: |
+          changed=$(git diff --name-only ${{ github.sha }}^ ${{ github.sha }} -- translations/ | cut -d'/' -f2 | sort -u | tr '\n' ' ')
+          echo "Changed translations: $changed"
+          echo "translations=$changed" >> "$GITHUB_OUTPUT"
+
+      - name: Zip Changed Translation Folders
+        if: steps.changes.outputs.translations != ''
         run: |
           mkdir -p output
 
-          for dir in translations/*; do
-            if [ -d "$dir" ]; then
-              name=$(basename "$dir")
+          for name in ${{ steps.changes.outputs.translations }}; do
+            if [ -d "translations/$name" ]; then
               cd translations
               zip -r "../output/${name}.zip" "$name"
               cd ..
@@ -31,6 +101,7 @@ jobs:
           done
 
       - name: Upload To R2
+        if: steps.changes.outputs.translations != ''
         run: |
           aws configure set aws_access_key_id ${{ secrets.R2_ACCESS_KEY_ID }}
           aws configure set aws_secret_access_key ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -40,3 +111,16 @@ jobs:
               s3://translations/ \
               --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
           done
+
+      - name: Update Status Badge
+        if: steps.changes.outputs.translations != ''
+        run: |
+          count=$(aws s3 ls s3://translations/ \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            | grep -c '\.zip$')
+          echo "Translation count: $count"
+          curl -s "https://img.shields.io/badge/translations-${count}-blue" -o status.svg
+          aws s3 cp status.svg \
+            s3://translations/status.svg \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type image/svg+xml
