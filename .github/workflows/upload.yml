@@ -31,6 +31,7 @@ jobs:
         uses: dtolnay/rust-toolchain@stable
 
       - name: Validate USFM Files
+        id: validate
         if: steps.usfm_files.outputs.files != ''
         run: |
           mkdir -p /tmp/usfm-validator
@@ -43,7 +44,6 @@ jobs:
           cat > src/main.rs <<'RUST'
           use std::env;
           use std::fs;
-          use std::process;
 
           fn main() {
             let args: Vec<String> = env::args().skip(1).collect();
@@ -52,40 +52,62 @@ jobs:
               return;
             }
 
-            let mut failed = false;
             for path in &args {
               let contents = match fs::read_to_string(path) {
                 Ok(c) => c,
                 Err(e) => {
                   eprintln!("FAIL: {} (could not read: {})", path, e);
-                  failed = true;
+                  println!("FAILED:{}", path);
                   continue;
                 }
               };
               match usfm::parse(&contents) {
-                Ok(_) => println!("PASS: {}", path),
+                Ok(_) => eprintln!("PASS: {}", path),
                 Err(e) => {
                   eprintln!("FAIL: {} ({:?})", path, e);
-                  failed = true;
+                  println!("FAILED:{}", path);
                 }
               }
-            }
-            if failed {
-              process::exit(1);
             }
           }
           RUST
 
           cargo build --release
           cd ${{ github.workspace }}
-          /tmp/usfm-validator/target/release/usfm-validator ${{ steps.usfm_files.outputs.files }}
+
+          failed_translations=$(/tmp/usfm-validator/target/release/usfm-validator ${{ steps.usfm_files.outputs.files }} \
+            | grep '^FAILED:' \
+            | sed 's|^FAILED:translations/||' \
+            | cut -d'/' -f1 \
+            | sort -u \
+            | tr '\n' ' ')
+          echo "Failed translations: $failed_translations"
+          echo "failed=$failed_translations" >> "$GITHUB_OUTPUT"
 
       - name: Determine Changed Translations
         id: changes
         run: |
           changed=$(git diff --name-only ${{ github.sha }}^ ${{ github.sha }} -- translations/ | cut -d'/' -f2 | sort -u | tr '\n' ' ')
           echo "Changed translations: $changed"
-          echo "translations=$changed" >> "$GITHUB_OUTPUT"
+
+          # Exclude translations that failed USFM validation
+          failed="${{ steps.validate.outputs.failed }}"
+          valid=""
+          for name in $changed; do
+            skip=false
+            for bad in $failed; do
+              if [ "$name" = "$bad" ]; then
+                skip=true
+                break
+              fi
+            done
+            if [ "$skip" = "false" ]; then
+              valid="$valid $name"
+            fi
+          done
+          valid=$(echo "$valid" | xargs)
+          echo "Valid translations to upload: $valid"
+          echo "translations=$valid" >> "$GITHUB_OUTPUT"
 
       - name: Zip Changed Translation Folders
         if: steps.changes.outputs.translations != ''
