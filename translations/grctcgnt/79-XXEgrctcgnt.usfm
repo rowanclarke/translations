@@ -1,0 +1,47 @@
+\id XXE - The Text-Critical Greek New Testament 
+\h APPENDIX E: REVELATION MANUSCRIPT FAMILIES 
+\toc1 Appendix E: Revelation Manuscript Families 
+\toc2 Appendix E 
+\toc3 App. E 
+\mt1 APPENDIX E  
+\mt2 REVELATION MANUSCRIPT FAMILIES  
+\ip The three main manuscript families in Revelation are Koine (\bd 𝔐\bd*\sup K\sup*), Andreas (\bd 𝔐\bd*\sup A\sup*), and Complutensian (\bd 𝔐\bd*\sup C\sup*). These manuscript families were determined from the data available in the \it Text und Textwert\it* volume for Revelation. The \it Text und Textwert\it* volume lists manuscripts for these three families while acknowledging that it is “not an entire catalogue of all representatives constituting the three major text-forms.” Consequently, I followed the procedures described below to expand the lists of manuscripts to include all the relevant manuscripts for each family.\f + \fr 1:0 \ft Lectionary manuscripts were excluded from this process.\f*  
+\ip Using the 123 variant units that are fully collated in \it Text und Textwert\it*, I created a pattern of readings for each of the three families. A particular variant was included in the diagnostic pattern of readings when it had at least twice as much manuscript support within a family as the variant with the next highest level of support within the family. For example, if variant 1 was supported by 30 \bd 𝔐\bd*\sup A\sup* manuscripts, and variant 2 was supported by 15 \bd 𝔐\bd*\sup A\sup* manuscripts, variant 1 was included in the diagnostic pattern of readings for \bd 𝔐\bd*\sup A\sup*. However, if variant 1 was supported by 29 \bd 𝔐\bd*\sup A\sup* manuscripts, and variant 2 was supported by 16 \bd 𝔐\bd*\sup A\sup* manuscripts, variant 1 was not included in the diagnostic pattern of readings for \bd 𝔐\bd*\sup A\sup*.  
+\ip Using the resultant pattern of diagnostic readings, I determined the percentage of alignment each manuscript had with each family. If a manuscript had at least 80% alignment with a particular family, and if its percentage of alignment was at least ten percentage points higher than the family of second closest alignment, the manuscript was assigned to that particular family. For example, if a particular manuscript had 87% alignment with \bd 𝔐\bd*\sup A\sup*, 71% alignment with \bd 𝔐\bd*\sup C\sup*, and 54% alignment with \bd 𝔐\bd*\sup K\sup*, it was included in the \bd 𝔐\bd*\sup A\sup* family. However, if a manuscript had 87% alignment with \bd 𝔐\bd*\sup C\sup*, 81% alignment with \bd 𝔐\bd*\sup A\sup*, and 55% alignment with \bd 𝔐\bd*\sup K\sup*, it was not included in either family because of its mixed nature. Similarly if a manuscript had 73% alignment with \bd 𝔐\bd*\sup A\sup*, 57% alignment with \bd 𝔐\bd*\sup C\sup*, and 48% alignment with \bd 𝔐\bd*\sup K\sup*, it was not assigned to any family because it did not meet the 80% alignment threshold. The resulting list of manuscripts for each family was slightly different from the lists printed in \it Text und Textwert\it*.  
+\ip Using this new list of manuscripts for each family, I adjusted the diagnostic profile of readings for each family. I then repeated the process of calculating alignment with each family and redetermining the list of manuscripts for each family. After six passes through the data, the list of manuscripts for each family had stabilized.  
+\ip The final lists of manuscripts are presented below. Tier 1 manuscripts have at least a 90% alignment with their family, while Tier 2 manuscripts have between an 80% and 90% alignment with their family. The readings of this edition have been established on the basis of Tier 1 and Tier 2 manuscripts. A reading was assigned to a family if it had at least twice as much manuscript support within the family as the reading with the next highest level of support within the family. If a reading did not have at least twice as much manuscript support within the family as the reading with the next highest level of support within the family, the family was considered to be split.  
+\ip For the 123 variant units collated in \it Text und Textwert\it*, family assignments were made based on a full collation of all the manuscripts listed below. Similarly, families were assigned based on all the manuscripts listed below. For all other variant units, family assignments were made and manuscript percentages were assigned based on the manuscripts below that are not in brackets. In other words, the manuscripts that appear in brackets below are the ones that were not collated either in the \it Editio Critica Maior\it* or by Hoskier.  
+\is1 𝔐\sup K\sup* Manuscripts  
+\im \bd Tier 1 (60 ᴍꜱꜱ)\bd*  
+\im 18. 82. 93. 110. 141. 149. 177. 201. 256. 314. 325. 337. 368. 385. 386. 452. 456. 467. 498. 517. 627. 632. 699. 905. 919. 920. 935. 1424. 1597. 1704. 1719. 1728. 1734. [1760.] [1769.] 1780. 1849. 1852. 1859. [1870.] 1872. 1893. 1948. 1955. 2004. 2021. 2024. 2025. 2027. 2039. 2048. 2079. 2138. 2200. [2494.] [2667.] 2824. 2918. 2921. [2922.]  
+\ib  
+\im \bd Tier 2 (35 ᴍꜱꜱ)\bd*  
+\im 046. 42. 61. 69. 91. 175. 203. 218. 242. 367. 468. 506. 522. 617. 664. 808. 1094. 1934. 2016. 2022. 2058. 2071. 2075. 2076. 2077. 2258. 2305. 2419. 2495. [2638.] 2672. 2845. 2847. [2864.] [2923.]  
+\ib  
+\im \bd Total: 95 ᴍꜱꜱ\bd* [9 ᴍꜱꜱ]  
+\is1 𝔐\sup A\sup* Manuscripts  
+\im \bd Tier 1 (11 ᴍꜱꜱ)\bd*  
+\im 2036. 2047. 2057. 2059. 2081. 2186. [2259.] [2428.] [2594.] [2743.] [2891.]  
+\ib  
+\im \bd Tier 2 (46 ᴍꜱꜱ)\bd*  
+\im 051. 88. 254. 743. [1685.] 1732. 1773. 1876. 2014. 2015. 2026. 2028. 2029. 2031. 2033. 2034. 2037. 2038. 2043. 2044. 2045. 2046. 2051. 2052. 2054. 2055. 2056. 2060. 2064. 2065. 2067. 2068. 2069. 2073. 2074. 2082. 2083. 2091. 2286. 2302. 2432. 2595. [2626.] 2814. 2919. [2931.]  
+\ib  
+\im \bd Total: 57 ᴍꜱꜱ\bd* [8 ᴍꜱꜱ]  
+\is1 𝔐\sup C\sup* Manuscripts  
+\im \bd Tier 1 (33 ᴍꜱꜱ)\bd*  
+\im 432. 757. 824. 986. 1072. 1075. 1248. 1328. 1503. 1551. 1617. 1637. 1733. 1740. 1745. 1746. [1768.] 1771. 1864. 1865. 1957. 2023. 2035. 2041. 2061. [2323.] 2352. 2382. [2431.] [2434.] [2554.] [2669.] 2821.  
+\ib  
+\im \bd Tier 2 (1 MS)\bd*  
+\im [2656.]  
+\ib  
+\im \bd Total: 34 ᴍꜱꜱ\bd* [7 MS]  
+\is1 Mixed Manuscripts  
+\im 35. 1384. 1774. [2408.]  
+\ib  
+\im \bd Total: 4 ᴍꜱꜱ\bd* [1 MS]  
+\is1 Unclassified Manuscripts  
+\im P18. P24. P43. P47. P85. P98. P115. 01. 02. 04. 025. 052. 0163. 0169. 0207. 0229. 0308. 94. 104. 172. 205. 241. 250. 336. 424. 459. 469. 582. 616. 620. 628. 680. 792. [886.] 911. 922. 1006. [1064.] 1611. 1626. [1652.] 1678. [1775.] 1778. [1824.] 1828. 1841. 1854. 1862. 1888. [1903.] 1918. 2017. 2018. 2019. 2020. 2030. 2032. 2042. 2050. 2053. 2062. 2070. 2078. 2080. 2084. 2196. [2201.] 2254. 2256. 2329. 2344. 2350. 2351. [2361.] 2377. [2403.] 2429. 2436. [2493.] 2582. [2619.] [2625.] [2643.] 2681. [2716.] [2759.] [2794.] [2843.] 2846. [2855.] 2886. [2909.] 2917. 2920. 2924. 2926.\f + \fr 1:0 \ft The following manuscripts are not included since they are copies of printed editions: GA 296, GA 1776, GA 1777, GA 2049, GA 2066. Furthermore, GA 2087 is excluded because there is no actual manuscript.\f*  
+\ib  
+\im \bd Total: 97 ᴍꜱꜱ\bd* [19 ᴍꜱꜱ]  
+\ib  
+\im \bd GRAND TOTAL: 287 ᴍꜱꜱ\bd* [44 ᴍꜱꜱ]  

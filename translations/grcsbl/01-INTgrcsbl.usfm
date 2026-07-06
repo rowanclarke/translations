@@ -1,0 +1,202 @@
+\id INT - The Greek New Testament: SBL Edition 
+\mt1 Introduction  
+\is1 The Text  
+\im \it The Greek New Testament: SBL Edition\it* (SBLGNT) is a new edition of the Greek New Testament, established with the help of earlier editions. In particular, four editions of the Greek New Testament were utilized as primary resources in the process of establishing the SBLGNT. These editions (and their abbreviations) are:  
+\ib  
+\tr
+\tc1 WH
+\tc2 Brooke Foss Westcott and Fenton John Anthony Hort, \it The New Testament in the Original Greek\it*, vol. 1: \it Text\it*; vol. 2: \it Introduction\it* [and] \it Appendix\it* (Cambridge: Macmillan, 1881). This justly famous and widely influential nineteenth-century edition of the Greek New Testament was one of the key texts used in the creation of the original Nestle text\f 1 \fr 1:0 \ft Eberhard Nestle, \+it Novum Testamentum Graece\+it* (Stuttgart: Württembergische Bibelanstalt, 1898); cf. the 16th ed. (1936), 38*; cf. also Kurt Aland and Barbara Aland, \+it The Text of the New Testament\+it* (2nd ed.; trans. E. F. Rhodes; Grand Rapids: Eerdmans; Leiden: Brill, 1989), 19–20.\f* and was used as the initial basis of comparison in the creation of the United Bible Societies' \it Greek New Testament\it*.\f 2 \fr 1:0 \ft Kurt Aland, Matthew Black, Bruce M. Metzger, and Allen Wikgren, eds., \+it The Greek New Testament\+it* (New York: American Bible Society; London: British and Foreign Bible Society; Edinburgh: National Bible Society of Scotland; Amsterdam: Netherlands Bible Society; Stuttgart: Württemberg Bible Society, 1966), v.\f* 
+\tr
+\tc1 Treg
+\tc2 Samuel Prideaux Tregelles, \it The Greek New Testament, Edited from Ancient Authorities, with their Various Readings in Full, and the Latin Version of Jerome\it* (London: Bagster; Stewart, 1857–1879). Although the fine edition of Tregelles has been overshadowed by that of his close contemporaries Westcott and Hort, his textual judgments reveal a “consistency of view and breadth of appreciation” of all the available textual evidence not always as evident in the work of his major nineteenth-century colleagues, who display (to varying degrees) a tendency toward a preoccupation with the latest “big discovery” (Ephraemi Rescriptus/04 in the case of Lachmann, Sinaiticus/01 in the case of Tischendorf, and Vaticanus/03 in the case of Westcott and Hort).\f 3 \fr 1:0 \ft David C. Parker, “The Development of the Critical Text of the Epistle of James: From Lachmann to the \+it Editio Critica Maior\+it*,” in \+it New Testament Textual Criticism and Exegesis: Festschrift J. Delobel\+it* (ed. A. Denaux; BETL 161; Leuven: Leuven University Press and Peeters, 2002), 329. \f* Tregelles offers a discerning alternative perspective alongside Westcott and Hort. 
+\tr
+\tc1 NIV
+\tc2 Richard J. Goodrich and Albert L. Lukaszewski, \it A Reader's Greek New Testament\it* (Grand Rapids: Zondervan, 2003). This edition presents the Greek text behind the New International Version\f 4 \fr 1:0 \ft \+it The Holy Bible, New International Version: New Testament\+it* (Grand Rapids: Zondervan, 1973).\f* as reconstructed by Edward Goodrick and John Kohlenberger III.\f 5 \fr 1:0 \ft A second edition published by the same editors and publisher in 2007 (reviewed and modified by Gordon Fee) presents the Greek text behind the TNIV translation.\f* It thus represents the textual choices made by the Committee on Bible Translation, the international group of scholars responsible for the NIV translation. According to its editors, this edition differs from the United Bible Societies/Nestle-Aland editions of the Greek New Testament at 231 places.\f 6 \fr 1:0 \ft Goodrich and Lukaszewski, \+it A Reader's Greek New Testament\+it*, 10 n. 6.\f* 
+\tr
+\tc1 RP
+\tc2 \it The New Testament in the Original Greek: Byzantine Textform 2005\it*, compiled and arranged by Maurice A. Robinson and William G. Pierpont (Southborough, Mass.: Chilton, 2005). This edition offers a text that is a reliable representative of the Byzantine textual tradition. 
+\is1 Establishing the Text  
+\im The starting point for the SBLGNT was the edition of Westcott and Hort. First, the WH text was modified to match the orthographic standards of the SBLGNT (described below). Next, the modified version was compared to the other three primary editions (Treg, NIV, and RP) in order to identify points of agreement and disagreement between them. Where all four editions agreed, the text was tentatively accepted as the text of the SBL edition; points of disagreement were marked for further consideration. The editor then worked systematically through the entire text, giving particular attention to the points of disagreement but examining as well the text where all four editions were in agreement.\f 7 \fr 1:0 \ft For a brief overview of the editor's methodological and historical perspectives with regard to the practice of New Testament textual criticism, see Michael W. Holmes, “Reconstructing the Text of the New Testament,” in \+it The Blackwell Companion to the New Testament\+it* (ed. David E. Aune; Oxford: Wiley-Blackwell, 2010), 77–89.\f* Where there was disagreement among the four editions, the editor determined which variant to print as the text;\f 8 \fr 1:0 \ft Or, to put the matter a bit more precisely, which variant most likely represents the form in which the text first began to be copied and to circulate.\f* occasionally a reading not found in any of the four editions commended itself as the most probable representative of the text and therefore was adopted. Similarly, where all four texts were in agreement, the editor determined whether to accept that reading or to adopt an alternative variant as the text.\f 9 \fr 1:0 \ft In all, there are fifty-six variation units in the SBLGNT where the editor preferred a reading not found in any of the four primary editions. In thirty-eight of those instances, the editor's preferred reading is also read by WH\+sup marg\+sup* (30x) and/or Treg\+sup marg\+sup* (2x) and/or NA (10x).\f* In this manner, the text of the SBLGNT was established.  
+\ip A comparison of this new text with the four editions listed above, using as the data base the 6,928 variation units recorded in the accompanying apparatus (described below), reveals the following patterns of agreement and difference:  
+\ib  
+\tr
+\tc1
+\tc2 Agreements
+\tc3 Disagreements 
+\tr
+\tc1 SBL—WH:
+\tc2 6,048
+\tc3 880 
+\tr
+\tc1 SBL—Treg:
+\tc2 5,700
+\tc3 1,228 
+\tr
+\tc1 SBL—NIV:
+\tc2 6,311
+\tc3 617 
+\tr
+\tc1 SBL—RP:
+\tc2 969
+\tc3 5,959 
+\ib  
+\im Also interesting is a comparison of agreements of the SBLGNT with one of the four editions against the other three and, vice versa, SBLGNT and the other three against the one:  
+\ib  
+\tr
+\tc1 SBL + WH vs. Treg NIV RP:
+\tc2 99 
+\tr
+\tc1 SBL + Treg vs. WH NIV RP:
+\tc2 28 
+\tr
+\tc1 SBL + NIV vs. WH Treg RP:
+\tc2 59 
+\tr
+\tc1 SBL + RP vs. WH Treg NIV:
+\tc2 66 
+\tr
+\tc1 SBL + Treg NIV RP vs. WH:
+\tc2 365 
+\tr
+\tc1 SBL + WH NIV RP vs. Treg:
+\tc2 150 
+\tr
+\tc1 SBL + WH Treg RP vs. NIV:
+\tc2 103 
+\tr
+\tc1 SBL + WH Treg NIV vs. RP:
+\tc2 4,875 
+\is1 Orthography and Related Matters  
+\im The orthography of this edition (including accents and breathings\f 10 \fr 1:0 \ft Occasionally breathings are as much a matter of interpretation as of lexicography. In agreement with a minority of the membership of the UBS Editorial Committee (see Bruce M. Metzger, \+it A Textual Commentary on The Greek New Testament\+it* [London: United Bible Societies, 1971], 616 [a discussion of Phil 3:21 not found in the second edition]), the SBLGNT occasionally prints a rough breathing on forms of αὐτός.\f* ) follows that of the Bauer-Danker-Arndt-Gingrich lexicon (BDAG).\f 11 \fr 1:0 \ft \+it A Greek-English Lexicon of the New Testament and Other Early Christian Literature\+it* (3rd ed., revised and edited by Frederick William Danker; based on the 6th ed. of Walter Bauer's \+it Griechisch-deutsches Wörterbuch zu den Schriften des Neuen Testaments und der frühchristlichen Literatur\+it*; Chicago: University of Chicago Press, 2000). Thus ἁγνεία, not ἁγνία (so WH), or, e.g., in the case of words with movable ς (cf. BDF §21), ἄχρι, μέχρι, and οὕτως are printed throughout, unless BDAG indicates otherwise (ἄχρις, Gal 3:19 and Heb 3:13; μέχρις, Mark 13:30, Gal 4:19, Heb 12:4; οὕτω, Acts 23:11, Phil 3:17, Heb 12:21, Rev 16:18). A rare exception to the guideline is the adoption of νουμηνίας rather than νεομηνίας in Col 2:16.\f* This includes both text and apparatus: entries in the apparatus generally have been conformed to the orthography of BDAG regardless of the spelling of the source edition.  
+\ip With regard to elision (e.g., ἀλλ᾽ for ἀλλά), crasis (e.g., κἀγώ for καὶ ἐγώ), movable ν, and the interchange between first aorist and second aorist verb endings, the text of Westcott and Hort has been followed. As in the case of orthography, this guideline generally applies to the apparatus as well as the text.  
+\is1 Capitalization  
+\im Capitalization follows the pattern of the third edition of \it The Apostolic Fathers: Greek Texts and English Translations\it*,\f 12 \fr 1:0 \ft Michael W. Holmes, ed., \+it The Apostolic Fathers: Greek Texts and English Translations\+it* (3rd ed.; Grand Rapids: Baker Academic, 2007).\f* which capitalizes (1) the first word of a paragraph, (2) the first word of direct speech, and (3) proper nouns.\f 13 \fr 1:0 \ft A category that offers, to be sure, numerous opportunities for differences of opinion.\f* Occasionally capitalization in a variant reading in the apparatus may follow that of the source edition.  
+\is1 Verse Division, Punctuation, and Paragraphing  
+\im The verse divisions follow those of the Nestle-Aland/United Bible Societies Greek texts.\f 14 \fr 1:0 \ft A partial exception occurs at the end of Acts 19, where (in accordance with some editions and many recent translations) a forty-first verse number has been placed in the text, but in brackets ( [41] ), to indicate uncertainty regarding its status.\f* Differences between editions have not been recorded.  
+\ip Punctuation generally follows that of Westcott and Hort. Regular exceptions include instances where a textual decision or the adoption of NRSV paragraphing required a corresponding change in punctuation. Where Westcott and Hort employed two consecutive punctuation marks (such as a comma following or preceding a dash; see 1 Tim 1:5; 2:7), these have been reduced to a single mark. A high point has been added before direct speech if no other punctuation is present. Occasionally other changes have been made as required by context.  
+\ip Paragraphing generally follows the pattern of the NRSV. Conflicts between NRSV paragraphing and Westcott and Hort punctuation have been resolved on a contextual basis.\f 15 \fr 1:0 \ft For example, at the end of Phil 1:18, WH's punctuation was given preference over the NRSV paragraph break, whereas at Phil 2:14 the NRSV paragraphing was followed rather than the WH punctuation (which was changed accordingly).\f*  
+\is1 Symbols Used in the Text  
+\tr
+\tc1 ⸀ or ⸁ or ⸀\sup 1\sup*
+\tc2 A textual note pertains to the following word. When identical words in the same verse are marked, the dotted bracket designates the second occurrence. Third (and subsequent) instances are denoted by a numbered bracket to distinguish them from previous instances. 
+\tr
+\tc1 ⸂ ⸃ or ⸄ ⸅
+\tc2 A textual note pertains to the enclosed words. When identical phrases in the same verse are marked, dotted brackets designate the second occurrence. Similarly, when a second multiword variation unit falls within the boundaries of a longer multiword variation unit, the dotted brackets mark the second occurrence. 
+\tr
+\tc1 [ ]
+\tc2 The enclosed text is doubtful.\f 16 \fr 1:0 \ft Brackets have been employed in this edition sparingly—not, one hopes, due to a lack of what Parker nicely terms “wise reticence” in the face of difficult choices (Parker, “Development,” 325), but for positive reasons. These include a widely shared sense that brackets have been somewhat overused in some recent editions (sometimes as what could be perceived as a means of avoiding difficult choices); an opinion that one of an editor's duties is to make choices, particularly in the “hard cases,” so as to offer some degree of guidance to those making use of the resulting text; and a corresponding concern that the availability of brackets biases the decision-making process toward inclusion (one can bracket an included word about which one has some degree of doubt regarding the decision to include it, but one cannot bracket the omission of a word about which one has an equal degree of doubt regarding the decision to exclude it). In all, for better or worse, single brackets appear only six times in the SBLGNT (at Luke 22:19–20; 24:40; 24:51; 24:52; Eph 1:1; Col 1:20).\f* 
+\is1 The Apparatus  
+\im The textual apparatus provides information about a wide range of textual variants.\f 17 \fr 1:0 \ft In general, it closely follows the pattern of the apparatus in Holmes, \+it The Apostolic Fathers\+it* (3rd ed.).\f* It records all differences between the text of the SBLGNT and the texts of WH, Treg, NIV, RP, and NA except for those differences that fall in the category of “orthography and related matters” (discussed above).\f 18 \fr 1:0 \ft This means that the apparatus includes nearly all the variant or alternative readings noted in the margins or notes of most recent major English translations and numerous translations into other languages as well.\f* That is, the apparatus does not take note of differences that are solely a matter of orthographic variation or that involve only elision, crasis, movable ν, interchange between first and second aorist verb endings, and the like; it does record all other differences between the SBL text and the texts of the five other editions just listed.  
+\ip The four primary editions (WH Treg NIV RP) are cited for every variation unit (of which there are 6,928).\f 19 \fr 1:0 \ft For variants involving the verses or parts of verses that WH print between double brackets (⟦⟧), WH is cited in the apparatus between brackets (i.e., ⟦WH⟧).\f* NA is cited only when it differs from NIV. Occasionally a marginal reading of WH or Treg or the text of another edition is cited, usually in support of a reading adopted by the editor that is not found in any of the four primary editions, but sometimes in other circumstances as well.  
+\ip In each note, the reading of the text is always presented first, in bold, followed by its supporting evidence; the variant reading(s) and supporting evidence follow. Because the different editions use single brackets ([]) in the text in different ways, the apparatus does not record details regarding an edition's use of brackets in its text.  
+\is1 Symbols Used in the Notes  
+\tr
+\tc1 Treg
+\tc2 Samuel Prideaux Tregelles, \it The Greek New Testament, Edited from Ancient Authorities, with Their Various Readings in Full, and the Latin Version of Jerome\it* (London: Bagster; Stewart, 1857–1879). 
+\tr
+\tc1 Treg\sup marg\sup*
+\tc2 Indicates a reading printed by Tregelles in the margin of his edition. 
+\tr
+\tc1 WH
+\tc2 Brooke Foss Westcott and Fenton John Anthony Hort, \it The New Testament in the Original Greek\it*, vol. 1: \it Text\it*; vol. 2: \it Introduction\it* [and] \it Appendix\it* (Cambridge: Macmillan, 1881). 
+\tr
+\tc1 WH\sup app\sup*
+\tc2 Indicates a reading discussed by WH in the \it Appendix\it* to their edition (in vol. 2). 
+\tr
+\tc1 WH\sup marg\sup*
+\tc2 Indicates an alternative reading printed by WH in the margin of their edition. 
+\is1 Understanding the Apparatus: A Brief Guide  
+\im This brief guide supplements what is said above about the apparatus to the SBLGNT by offering further explanation and examples.  
+\ip The textual apparatus provides a textual note for each of the more than 6,900 instances of variation in the SBLGNT. In each note, the marked reading in the text is always listed first, in bold, and followed immediately by its supporting evidence. The separator bracket (]) comes next, followed by the variant reading(s) and supporting evidence. Multiple variant readings in the same variation unit are separated by a semicolon (;), as in the second variant in Matt 22:30 below (τοῦ θεοῦ RP; – WH Treg NIV).  
+\ip Symbols in the text alert the reader to the presence of textual notes in the apparatus. The most frequently used symbols are ⸀ and ⸂⸃; the former marks a single word, and the latter encloses a multiple-word phrase. If the same word is marked a second time in the same verse, the ⸁ symbol is used to mark the second occurrence (as in Matt 10:28 below, twice). If an identical multiword phrase is marked a second time in the same verse, the ⸄⸅ symbols are used to mark the second occurrence (as in John 18:39 below). In both cases, for clarity the symbols are repeated in the textual note. (More complex cases are discussed below.)  
+\ib  
+\im Matt 10:28 text:  
+\ib  
+\imi 28 καὶ μὴ ⸀φοβεῖσθε ἀπὸ τῶν ἀποκτεννόντων τὸ σῶμα τὴν δὲ ψυχὴν μὴ δυναμένων ἀποκτεῖναι· ⸁φοβεῖσθε δὲ μᾶλλον τὸν δυνάμενον ⸀καὶ ψυχὴν ⸁καὶ σῶμα ἀπολέσαι ἐν γεέννῃ.  
+\ib  
+\imi textual notes in apparatus:  
+\ib  
+\imi \bd 10:28\bd* ⸀φοβεῖσθε Treg NIV RP ] φοβηθῆτε WH  
+\imi \bd 10:28\bd* ⸁φοβεῖσθε WH NIV ] φοβήθητε Treg RP  
+\imi \bd 10:28\bd* ⸀καὶ WH Treg NIV ] + τὴν RP  
+\imi \bd 10:28\bd* ⸁καὶ WH Treg NIV ] + τὸ RP  
+\ib  
+\im John 18:39 text:  
+\ib  
+\imi 39 ἔστιν δὲ συνήθεια ὑμῖν ἵνα ἕνα ⸂ἀπολύσω ὑμῖν⸃ ἐν τῷ πάσχα· βούλεσθε οὖν ⸄ἀπολύσω ὑμῖν⸅ τὸν βασιλέα τῶν Ἰουδαίων;  
+\ib  
+\imi textual notes in apparatus:  
+\ib  
+\imi \bd 10:39\bd* ⸂ἀπολύσω ὑμῖν⸃ WH Treg NIV ] ὑμῖν ἀπολύσω RP  
+\imi \bd 10:39\bd* ⸄ἀπολύσω ὑμῖν⸅ WH Treg NIV ] ὑμῖν ἀπολύσω RP  
+\ib  
+\im Matt 22:30 text:  
+\ib  
+\imi 30 ἐν γὰρ τῇ ἀναστάσει οὔτε γαμοῦσιν οὔτε ⸀γαμίζονται, ἀλλ᾽ ὡς ἄγγελοι ⸀θεοῦ ἐν ⸀τῷ οὐρανῷ εἰσιν·  
+\ib  
+\imi textual notes in apparatus:  
+\ib  
+\imi \bd 22:30\bd* γαμίζονται WH Treg NIV ] ἐκγαμίζονται RP  
+\imi \bd 22:30\bd* θεοῦ Holmes ] τοῦ θεοῦ RP; – WH Treg NIV  
+\imi \bd 22:30\bd* τῷ WH Treg NIV ] – RP  
+\ib  
+\ip Variant readings can be one of three types: addition, omission, or substitution. An addition is signaled by the plus sign (+), which indicates that the following word or words are added to the reading of the text by the supporting edition(s) listed after the additional words. In Matt 10:28 above, for example, taking the third and fourth variants together, the SBL text reads καὶ ψυχὴν καὶ σῶμα (with WH Treg NIV), while the RP text— adding τὴν after ⸀καὶ and τὸ after ⸁καὶ —reads καὶ τὴν ψυχὴν καὶ τὸ σῶμα.  
+\ip An omission is signaled by the minus sign (–) or dash, which indicates that the word(s) marked in the text are omitted by the supporting edition(s) listed after the minus sign. In the second variant in Matt 22:30 above, where the SBL text reads ὡς ἄγγελοι θεοῦ, WH Treg NIV omit the word θεοῦ and thus read only ὡς ἄγγελοι (see also the last variant in 22:30).  
+\ip If there is neither a plus nor a minus sign, the variant reading is a substitution: the word(s) marked in the text are replaced by the word(s) in the variant reading by the supporting edition(s) listed after the variant reading. In the first variant in Matt 10:28, for example, the SBL text reads φοβεῖσθε (with Treg NIV RP), while the WH text reads φοβηθῆτε (see also the second variant in this verse, both variants in John 18:39, and the first variant in 22:30).  
+\ip The above examples cover a very large proportion of the variation units in the apparatus, though more complex cases do sometimes occur. If, for example, the same word is marked more than twice in the same sentence, the symbols ⸀\sup 1\sup* and ⸀\sup 2\sup* are used for subsequent occurrences (as in 1 Cor 12:10 below, where the same word is marked four times). Occasionally, the ⸄⸅ symbols (whose typical use was described above) can also be used to mark a shorter multiword variant that occurs inside a longer multiword variant (see Luke 22:43-44 below). Also, a single-word variant marker (⸀) can occur inside a regular set (⸂⸃) of multiple-word variant markers (as in John 13:2 below). A key point to remember when encountering an “opening” multiple-word marker, whether ⸂ or ⸄, is always to look for the corresponding “closing” marker (⸃ or ⸅); this will help to avoid confusion.  
+\ib  
+\im 1 Cor 12:10 text:  
+\ib  
+\imi 10 ⸀ἄλλῳ ἐνεργήματα δυνάμεων, ⸁ἄλλῳ προφητεία, ⸀\sup 1\sup*ἄλλῳ διακρίσεις πνευμάτων, ⸀ἑτέρῳ γένη γλωσσῶν, ⸀\sup 2\sup*ἄλλῳ ἑρμηνεία γλωσσῶν·  
+\ib  
+\imi textual notes in apparatus:  
+\ib  
+\imi \bd 12:10\bd* ⸀ἄλλῳ Holmes ] + δὲ WH Treg NIV RP  
+\imi \bd 12:10\bd* ⸁ἄλλῳ Treg ] + δὲ WH NIV RP  
+\imi \bd 12:10\bd* ⸀\sup 1\sup*ἄλλῳ Treg ] + δὲ WH NIV RP  
+\imi \bd 12:10\bd* ἑτέρῳ WH Treg NIV ] + δὲ RP  
+\imi \bd 12:10\bd* ⸀\sup 2\sup*ἄλλῳ Holmes ] + δὲ WH Treg NIV RP  
+\ib  
+\im Luke 22:43-44 text:  
+\ib  
+\imi 43 ⸂ὤφθη δὲ αὐτῷ ἄγγελος ⸀ἀπ᾽ οὐρανοῦ ἐνισχύων αὐτόν. 44 καὶ γενόμενος ἐν ἀγωνίᾳ ἐκτενέστερον προσηύχετο· ⸄καὶ ἐγένετο⸅ ὁ ἱδρὼς αὐτοῦ ὡσεὶ θρόμβοι αἵματος καταβαίνοντες ἐπὶ τὴν γῆν.⸃  
+\ib  
+\imi textual notes in apparatus:  
+\ib  
+\imi \bd 22:43-44\bd* ὤφθη δὲ... ἐπὶ τὴν γῆν. Treg NIV RP ] ⟦WH⟧  
+\imi \bd 22:43-44\bd* ἀπ᾽ NIV RP ] ἀπὸ τοῦ ⟦WH⟧ Treg  
+\imi \bd 22:43-44\bd* καὶ ἐγένετο ⟦WH⟧ NIV ] ἐγένετο δὲ Treg RP  
+\ib  
+\ip Here the symbols ⸂⸃ mark off a variant involving the inclusion (by Treg NIV RP) or omission (by WH) of verses 43-44. Within that larger variant, a smaller multiword variant marked by ⸄⸅ involves a word-order difference. Since the ⸂ “opening” symbol always is matched by a ⸃ “closing” symbol, and the ⸄ symbol always corresponds with ⸅, it is possible to “nest” the two variants without confusion as to where each begins and ends.  
+\ip This variant offers an opportunity to comment on the use of another symbol, ⟦WH⟧. There are some verses that Westcott and Hort did not think belonged to the genuine text but that they did not feel free to remove completely from their printed text due to its antiquity or intrinsic interest. In the first entry in the apparatus (ὤφθη δὲ... ἐπὶ τὴν γῆν. Treg NIV RP ] ⟦WH⟧), the symbol ⟦WH⟧ signals that Westcott and Hort placed verses 43-44 inside double brackets, whereas Treg NIV RP included them in their texts. In the third variant (καὶ ἐγένετο ⟦WH⟧ NIV ] ἐγένετο δὲ Treg RP), involving a difference in word order, the presence of ⟦WH⟧ signals that Westcott and Hort support the same word order as NIV and reminds us that they did not view the phrase (or the verse of which it is a part) as part of the original text.  
+\ib  
+\im John 13:2 text:  
+\ib  
+\imi 2 καὶ δείπνου ⸀γινομένου, τοῦ διαβόλου ἤδη βεβληκότος εἰς τὴν καρδίαν ⸂ἵνα παραδοῖ αὐτὸν Ἰούδας Σίμωνος ⸀Ἰσκαριώτου⸃,  
+\ib  
+\imi textual notes in apparatus:  
+\ib  
+\imi \bd 13:2\bd* γινομένου WH Treg NIV ] γενομένου RP  
+\imi \bd 13:2\bd* ἵνα παραδοῖ αὐτὸν Ἰούδας Σίμωνος Ἰσκ. WH Treg NIV ] Ἰούδα Σίμωνος Ἰσκ. ἵνα αὐτὸν παραδῷ RP  
+\imi \bd 13:2\bd* Ἰσκαριώτου NIV RP ] Ἰσκαριώτης WH Treg  
+\ib  
+\ip In this instance, the word-order variation (⸂ἵνα παραδοῖ αὐτὸν Ἰούδας Σίμωνος Ἰσκαριώτου⸃) is unrelated to the separate variant involving the spelling of ⸀Ἰσκαριώτου, so they have been set up as separate variants, the smaller one “nested” inside the larger. The larger variant bounded by the symbols ⸂⸃ deals with the word-order variation, while the variant signaled by the ⸀ symbol deals with the spelling variation.  
+\ib  
+\ip Two other matters call for comment. One is punctuation, which in general is not taken into account in the textual notes. Occasionally, however, a variant may carry with it consequences for how the verse is punctuated. In these cases, punctuation is included in the textual note, as in the second variant in Rev 21:4:  
+\ib  
+\imi \bd 21:4\bd* ἔτι. WH ] ἔτι, ὅτι Treg NIV RP  
+\ib  
+\im Here the inclusion of ὅτι (supported by Treg NIV RP) alters the syntax of the sentence and so requires a change in punctuation, from the full stop of WH to a comma. The textual note, therefore, indicates both the textual variants and the punctuation that corresponds with them.  
+\ip The other is the use of ellipsis (...) in the textual notes. Sometimes it is used to save space, especially in variants involving word order. In Matt 15:37 (καὶ ἔφαγον πάντες καὶ ἐχορτάσθησαν, καὶ ⸂τὸ περισσεῦον τῶν κλασμάτων ἦραν⸃ ἑπτὰ σπυρίδας πλήρεις), for example, giving the full text of each variant would result in a textual note like this:  
+\ib  
+\imi \bd 15:37\bd* τὸ περισσεῦον τῶν κλασμάτων ἦραν WH Treg NIV ] ἦραν τὸ περισσεῦον τῶν κλασμάτων RP  
+\ib  
+\im The use of ellipses to replace exactly the same words in each variant results in a shorter note:  
+\ib  
+\imi \bd 15:37\bd* τὸ... κλασμάτων ἦραν WH Treg NIV ] ἦραν τὸ... κλασμάτων RP.  
+\ib  
+\ip In other cases the use of ellipses helps to make clear the places where two or more textual variants actually differ. In Acts 9:31, for example, the entire verse is enclosed by a pair of multiword variant markers (31 ⸂Ἡ μὲν οὖν ἐκκλησία καθ᾽ ὅλης τῆς Ἰουδαίας καὶ Γαλιλαίας καὶ Σαμαρείας εἶχεν εἰρήνην οἰκοδομουμένη, καὶ πορευομένη τῷ φόβῳ τοῦ κυρίου καὶ τῇ παρακλήσει τοῦ ἁγίου πνεύματος ἐπληθύνετο⸃). The apparatus, however, looks like this:  
+\ib  
+\imi \bd 9:31\bd* Ἡ... ἐκκλησία... εἶχεν... οἰκοδομουμένη... πορευομένη... ἐπληθύνετο WH Treg NIV ] Αἱ... ἐκκλησίαι... εἶχον... οἰκοδομούμεναι... πορευόμεναι... ἐπληθύνοντο RP  
+\ib  
+\im Here the ellipses not only save space but also reveal clearly the places where the variant readings differ and the nature of the variation (singular versus plural).\f 20 \fr 1:0 \ft The introduction has been slightly modified to conform with the formatting of this electronic edition. The text of the New Testament has been updated to the V1.2 text from github.com/LogosBible/SBLGNT.\f*  
