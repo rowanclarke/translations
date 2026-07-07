@@ -1,9 +1,6 @@
-name: Upload Translations
-
 on:
   push:
-    paths:
-      - "translations/**"
+    branches: [master]
   workflow_dispatch:
 
 jobs:
@@ -12,130 +9,64 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Install AWS CLI
-        run: |
-          pip install awscli
+      - uses: rowanclarke/usfm-validator@v1
 
-      - name: Identify Changed USFM Files
-        id: usfm_files
-        run: |
-          files=$(git diff --name-only ${{ github.sha }}^ ${{ github.sha }} -- '*.usfm' | tr '\n' ' ')
-          echo "Changed USFM files: $files"
-          echo "files=$files" >> "$GITHUB_OUTPUT"
+      - run: pip install awscli
 
-      - name: Install Rust Toolchain
-        if: steps.usfm_files.outputs.files != ''
-        uses: dtolnay/rust-toolchain@stable
-
-      - name: Validate USFM Files
-        id: validate
-        if: steps.usfm_files.outputs.files != ''
-        run: |
-          mkdir -p /tmp/usfm-validator
-          cd /tmp/usfm-validator
-          cargo init --name usfm-validator
-          cat >> Cargo.toml <<'TOML'
-          usfm = "0.2.0"
-          TOML
-
-          cat > src/main.rs <<'RUST'
-          use std::env;
-          use std::fs;
-
-          fn main() {
-            let args: Vec<String> = env::args().skip(1).collect();
-            if args.is_empty() {
-              println!("No USFM files to validate.");
-              return;
-            }
-
-            for path in &args {
-              let contents = match fs::read_to_string(path) {
-                Ok(c) => c,
-                Err(e) => {
-                  eprintln!("FAIL: {} (could not read: {})", path, e);
-                  println!("FAILED:{}", path);
-                  continue;
-                }
-              };
-              match usfm::parse(&contents) {
-                Ok(_) => eprintln!("PASS: {}", path),
-                Err(e) => {
-                  eprintln!("FAIL: {} ({:?})", path, e);
-                  println!("FAILED:{}", path);
-                }
-              }
-            }
-          }
-          RUST
-
-          cargo build --release
-          cd ${{ github.workspace }}
-
-          failed_translations=$(/tmp/usfm-validator/target/release/usfm-validator ${{ steps.usfm_files.outputs.files }} \
-            | grep '^FAILED:' \
-            | sed 's|^FAILED:translations/||' \
-            | cut -d'/' -f1 \
-            | sort -u \
-            | tr '\n' ' ')
-          echo "Failed translations: $failed_translations"
-          echo "failed=$failed_translations" >> "$GITHUB_OUTPUT"
-
-      - name: Determine Changed Translations
-        id: changes
-        run: |
-          changed=$(git diff --name-only ${{ github.sha }}^ ${{ github.sha }} -- translations/ | cut -d'/' -f2 | sort -u | tr '\n' ' ')
-          echo "Changed translations: $changed"
-
-          # Exclude translations that failed USFM validation
-          failed="${{ steps.validate.outputs.failed }}"
-          valid=""
-          for name in $changed; do
-            skip=false
-            for bad in $failed; do
-              if [ "$name" = "$bad" ]; then
-                skip=true
-                break
-              fi
-            done
-            if [ "$skip" = "false" ]; then
-              valid="$valid $name"
-            fi
-          done
-          valid=$(echo "$valid" | xargs)
-          echo "Valid translations to upload: $valid"
-          echo "translations=$valid" >> "$GITHUB_OUTPUT"
-
-      - name: Zip Changed Translation Folders
-        if: steps.changes.outputs.translations != ''
-        run: |
-          mkdir -p output
-
-          for name in ${{ steps.changes.outputs.translations }}; do
-            if [ -d "translations/$name" ]; then
-              cd translations
-              zip -r "../output/${name}.zip" "$name"
-              cd ..
-            fi
-          done
-
-      - name: Upload To R2
-        if: steps.changes.outputs.translations != ''
+      - name: Compare against deployed versions
         run: |
           aws configure set aws_access_key_id ${{ secrets.R2_ACCESS_KEY_ID }}
           aws configure set aws_secret_access_key ${{ secrets.R2_SECRET_ACCESS_KEY }}
 
-          for file in output/*.zip; do
-            aws s3 cp "$file" \
-              s3://translations/ \
+          mkdir output
+
+          for dir in translations/*; do
+            [ -d "$dir" ] || continue
+
+            name=$(basename "$dir")
+
+            hash=$(
+              find "$dir" -type f | sort |
+              while read f; do
+                sha256sum "$f"
+              done |
+              sha256sum |
+              cut -d' ' -f1
+            )
+
+            remote_hash=$(
+              aws s3api head-object \
+                --bucket translations \
+                --key "$name.zip" \
+                --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+                --query 'Metadata.content-hash' \
+                --output text \
+              2>/dev/null || echo ""
+            )
+
+            if [ "$hash" = "$remote_hash" ]; then
+              echo "$name unchanged"
+              continue
+            fi
+
+            echo "Validating $name"
+
+            if ! usfm-validator "$dir"; then
+                echo "Validation failed: $name"
+                continue
+            fi
+
+            zip -X -r "output/$name.zip" "$dir"
+
+            aws s3 cp \
+              "output/$name.zip" \
+              "s3://translations/$name.zip" \
+              --metadata content-hash="$hash" \
               --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
           done
 
       - name: Update Status Badge
-        if: steps.changes.outputs.translations != ''
         run: |
           count=$(aws s3 ls s3://translations/ \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
