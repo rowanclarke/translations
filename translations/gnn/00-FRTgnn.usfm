@@ -1,849 +1,849 @@
-\id FRT  
-\ide UTF8
-\periph Title Page 
-\pc GODKU DHÄRUK  
-\pc NININYŊUKUNHARA  
-\pc NHERRAṈARA  
-\pc Ŋurruthanharawuy gal'ŋu  
-\pc ŋunhi dhawu'  
-\pc Ḻakarama yukurra  
-\pc dhärukkurru Gumatjkurruna  
-\pc BIBLE SOCIETY IN AUSTRALIA  
-\pc Canberra  
-\periph Publication Data 
-\pc Shorter Old Testament  
-\pc in Gumatj  
-\pc 265P  
-\pc © The Bible Society in Australia Incorporated 1989  
-\pc 100  
-\pc ISBN 0 647 12631 1  
-\periph Preface 
-\s2 DHIYAŊUNYDJA DHÄRUKTHU ḺAKARAMANA YUKURRA DHÄWU'NA, ŊUNHI DHÄRUK YUKURRA DHÄRRA DHIYALAMI DJORRA'ŊURANA  
-\p Dhuwalanydja Godku dhäruk ŋuliŋuru ŋäthiliŋuŋuru yarraṯaŋuru, yurru wukirriwuynydja Gumatjkurru dhärukkurru, märr nhuma yurru nhäma ŋunhiyi, ga waḏutja dharaŋan, ga marŋgiyirri yuwalk gal'ŋu Godku, ŋunhi nhaltjarra ŋayi ŋamaŋamayurruna ŋilimurrunha yolŋunha, märr yurru ŋilimurru bitjanna liŋgu nhina yukurra nhanukala nyeyalŋura djäkaŋura.  
-\p Yo, ŋurruŋu ŋunhi dhäwu'yu yukurra ḻakarama beŋuru liŋgu ŋurru‐yirr'yunaraŋuru, ḻakarama yukurra ŋunhi ŋayi Godthu djäma yolŋukuŋala, märr yurru yolŋu'‐yulŋu nhina yukurra nhanŋuway yana Godku. Yurru yolŋunydja walala bilyurruna ŋapa‐wekanhamina Godku, ga dhiyaŋuna yätjthuna ŋunhi yolŋunhanydja barrkuwatjkuŋalana Godkalanydja. Bala yolŋunydja walala mirithinana yätjthina; bukmaknha dhika yolŋuyunydja djäma yukurrana walalaŋgalaynha ḏukṯukkurru. Yurru Godtja mukthurruna yana märr‐ŋamathina yukurrana ŋuriki yolŋu'‐yulŋuwu ŋunhi nhanukuŋuway djämawuy. Ga dhiyalami djorra'ŋura nhe yurru marŋgithirri ŋunhi Godthu djarr'yurruna Abrahamnha ga nhanukuŋu mala‐wunharawuynha, märr yurru ŋunhiyinydjayi nhanŋuwaynha wal'ŋu yolŋu walala miṯtji. Ga malanydja dhuwala walala Jew yäku bäpurrunydja.  
-\p Yo, Godthu wekaŋala Jewnha malanha romnha, märr yurru walala buku‐ŋal'yun yukurra nhanŋu ŋuliwitjarra romkurru; ŋayi yurru bäy‐ḻakaramana walalaŋgu yätjpuy dhuwurrwuy liŋgu ŋuriŋi ŋunhi wäyin läm gulaŋ waṉḏirri yurru walalaŋgala dharapalŋura, märr yurru bitjanarayunydjayi walala yurru marrtji galkithirri, galkina yana Godkala. Ga bitjarrayi liŋgu Godthu wekaŋala walalaŋgu Jewwu rom, märr yurru walala nhina yana yukurra ŋamakurru nhanukiyingala yana romŋura. God ḏukṯukthina walala yurru wiripu bäpurru ga wiripu bäpurru marŋgiyirri nhanŋu ŋuliwitjan walalaŋgalaŋukurru Jewwalaŋukurru, walala yurru nhäma ga dharaŋan ŋunhi ŋayipi yana waŋgany yuwalkŋunydja wal'ŋu God waŋarr. Liŋgu Godtja dhuwala ŋayipi gäna garrkuḻuk, ganaŋ'thun yukurra yätjŋuru, bala ŋayi yukurra wirrki gal'ŋu goŋ‐nherraṉmirri ŋuriki walalaŋgu yolŋuwu ŋunhi walala yukurra malthun nhanŋuway romgu. Yurru ŋurikinydja walalaŋgu ŋunhi walala yukurra ŋurrkama ŋanya, ga yaka malthun nhanŋu romgu, ŋayinydja yurru ŋunhiyi dhä‐ḏir'yunna walalanha; walala yurru murrmurryunna, liŋgu ŋuriŋi yätjthu walalaŋgalay romdhu.  
-\p Wiripunydja nhanŋu Godku yolŋu walala malthurruna nhanŋu dhärukku, ga bitjanarayuyi walala ŋuli nhinanha ŋamathanha yana yukurranha, nhanukiyingala yana Godkala nyeyalŋura djäkaŋura. Ga wiripunydja walala ŋuli ŋula nhäthamirriyu bilyuna, gonha'yuna yuwalkŋunhanydja Godnha, ga ŋunhana‐bala wiripuŋuwuna buku‐ŋal'yuna waŋarrwu, bala ŋuli marina bunanha bathalana; miriŋuna ŋuli bunanha walalaŋgu, ga wäŋana yätjkunha baḏuwaḏuyuna, ga yana liŋgu bala walala ŋuli yolŋunydja walala bilyuna balayi Godkala.  
-\p Ŋunhala bala dhawar'yunaramirriŋura gali'ŋura djorra'ŋura nhe yurru maḻŋ'marama dhäwu wukirriwuy ŋurikiŋi walalaŋguŋu dhäwu‐gänharamirriwuŋu walalaŋguŋu, ŋunhi Godthu djuy'yurruna walalanha nhanukiyingalaŋuwu yolŋu'‐yulŋuwu. Wiripu‐guḻku'yunydja ŋuriŋi dhäwu‐gänharamirriyu walalay ŋuli waŋanha yukurranha ḻakaranha yolŋu'‐yulŋuwu gonha'yunarawu yätjku romgu, bala bilmaranha Godkala, märr walala yurru yaka yukurra bitjan liŋgu galŋa‐yätjthirri nhina ŋunhiliyi romŋura yätjŋura. Ga wiripuwurruyunydja dhäwu‐ḻakaranhamirriyu walalay ŋuli yukurranha ḻakaranha ŋunhina wal'ŋu dhäwu ŋunhi ŋayipina Godnha maḻŋ'maranhaminya ŋuli yukurranha walalaŋgala, nhaltjanna ŋayi yurru Godthu djäma yukurra ŋunhi ŋurikinydja walalaŋgu yolŋu'‐yulŋuwu ŋunhi walala yukurra märr‐ŋamathirri ga malthun nhanŋuway dhärukku, ga nhaltjanna yurru ŋunhana‐bala yalalanydja, ŋunhi ŋayi yurru Godthu walŋakuma nhanŋuwaynydja wal'ŋu ŋunhi yolŋunhanydja walalanha ga bukmaknha dhika yolŋunha ŋunha marrtji bäpurru buku‐ḻiw'marama nhina, ŋunhi ŋayi yurru walŋakumana walalanha ŋurikala Walŋakunharamirriwala Yolŋuwala ŋunhi ŋayi boŋguŋu djuy'yurru ŋanya lili.  
-\p Yuwalknha bukmakthu dhiyaŋu djorrayu yukurra ḻakarama Godnha ŋanyapinyaynha, ŋunhi ŋayi nhaltjarra ŋäthilimirriyaŋala dhuwala wäŋa ŋaraka ŋurikinydja waluwu ŋunhi yurru ŋayipina wal'ŋu nhanŋuway gäthu'mirriŋuna Djesuna buna dhiyala munatha'ŋura, ga rakunydhirrina yurru ŋilimurruŋgala dharapulŋura, märr yurru ŋula yol märr‐yuwalkthirrinydja nhanŋu ga malthun nhanŋuwaynha dhärukku, ŋunhiyinydja yolŋu yurru walŋathirrina ŋuliwitjan Djesuwalaŋukurru gulaŋ‐waṉḏinyarayu.  
-\p Dhuwalanydja djorra wukirriwuy wiripuwuŋu ga wiripuwuŋu yolŋu'‐yulŋuwuŋu barrkuwatj yana, yurru ŋayipi yana Godthu wekaŋalanydja marrtjina walalaŋgala dhäruktja malanha, ga yuwalknha dhuwalanydja dhäruk malanha nhanukuŋuwaynha yana dhäwu Godkuŋuna. Ŋuriŋiyi yolŋu'‐yulŋuyu wukirrinydja dhuwala dhäwuny'tja Hebrewkurru dhärukkurru, ga yalalana wiripuwurruyunydja dhuḏakthurruna bilmaraŋala ŋunhi yana liŋgu dhäruk ga ŋäpakililina dhäruklili bala wiripulili ga wiripulili dhäruklili guḻku'lilina. Bala dhiyaŋunydja‐wala nhuma yukurra yurru nhäma Gumatjkurruna ŋunhiyi yana liŋgu waŋgany dhäwu.  
-\p Dhiyalami djorra'ŋura wiripunydja dhäwu malanha dhaŋaŋ dhäwu, balanyara yana liŋgu bitjan nhuma yurru maḻŋ'marama ŋunhi ŋäpakikurru dhärukkurru, ga wiripuŋuranydja makarr dhäruk malanha dhiyalami djorra'ŋura ḻakarama yukurra gurriri yana. Nhuma yurru dharaŋanna yana nhämanydja ŋunhiyinydja wukirriwuy märr‐gurriri, liŋgu ŋunhiyinydjayi dhäruk yukurra dhärra märr‐ṉapuŋga yana ŋuliŋuru wiripuŋuru dhärukŋuru.  
-\p Guḻku' ŋunhi yäku dhiyalami dhäwuŋura ḏäl mirithirri waŋanharawu ga nhänharawu, bala ŋanapurru wukirri ŋunhiyi yäkunydja malanha märr‐dharaŋanarawu. Ŋunhi yurru nhe nhäma dhuwala wukirriwuynydja * bitjan dhiyalami dhäwu'ŋura, nhe yurru nhäma ŋunhiyi ŋäpakikurru ŋäṉarr ŋunhana gal'ŋu dhuḏiŋura djorra'ŋura.  
-\p Ga ŋunhanydja bala dhawar'yunaraŋurana wal'ŋu nhe yurru maḻŋ'marama mali, wäŋana ŋarakana ḻakarama yukurra, ŋunhi yukurra milkumana dharapulnha malanha wanhami yukurrana maḻŋ'thurruna bitjarrayi ŋunhiyi dhäwu'yu yukurra ḻakaramana dhiyalami djorra'yuna.  
-\p Ŋanapurru yukurra bukumirriyama Godnha, märr yurru nhuma marŋgiyirrina Godku nhanŋuway balakurru‐witjan djorra'kurru. Ŋanapurru ḏukṯuk nhumalaŋgu, nhuma yurru ḻiya‐ŋamaŋamayunmiyana nhunapinyay nhe buku‐ŋal'yunarawu yuwalkku ŋunha Godku, märr nhe nhina yukurra yurru ŋamakurru'yuna romdhu nhanukalaynha yana. Ga manymak yana ŋunhiyi New Testamenttja, nhuma yurru wiripunydja nhäma ŋunhiyi Gumatjkurrunydja dhärukkurru, liŋgu ŋunhiyinydjayi ḻakarama yukurra biyapulnha wal'ŋu Godnha, ga nhanŋu gäthu'mirriŋunha Djesu‐Christnha, ŋunhinhaŋgayi Walŋakunharamirrinha ŋunhi Godthu djuy'yurruna ŋanya lili yolŋuwu walalaŋgu walŋakunharawu, bukmakku bäpurruwu ŋunhi nhina yukurra dhiyalami munatha'ŋura.  
-\periph Table of Contents 
-\s2 BOOK NAMES  
-\tr
-\th1
-\th2 Page 
-\tr
-\tc1 Genesis 
-\tc2 1 
-\tr
-\tc1 Exodus 
-\tc2 159 
-\tr
-\tc1 Leviticus 
-\tc2 292 
-\tr
-\tc1 Numbers 
-\tc2 321 
-\tr
-\tc1 Deuteronomy 
-\tc2 375 
-\tr
-\tc1 Joshua 
-\tc2 448 
-\tr
-\tc1 Judges 
-\tc2 503 
-\tr
-\tc1 Ruth 
-\tc2 556 
-\tr
-\tc1 1 Samuel 
-\tc2 571 
-\tr
-\tc1 2 Samuel 
-\tc2 649 
-\tr
-\tc1 1 Kings 
-\tc2 670 
-\tr
-\tc1 2 Kings 
-\tc2 722 
-\tr
-\tc1 Ezra 
-\tc2 783 
-\tr
-\tc1 Nehemiah 
-\tc2 791 
-\tr
-\tc1 Job 
-\tc2 811 
-\tr
-\tc1 Psalms 
-\tc2 822 
-\tr
-\tc1 Isaiah 
-\tc2 920 
-\tr
-\tc1 Jeremiah 
-\tc2 1027 
-\tr
-\tc1 Ezekiel 
-\tc2 1113 
-\tr
-\tc1 Daniel 
-\tc2 1161 
-\tr
-\tc1 Hosea 
-\tc2 1216 
-\tr
-\tc1 Joel 
-\tc2 1240 
-\tr
-\tc1 Amos 
-\tc2 1259 
-\tr
-\tc1 Obadiah 
-\tc2 1294 
-\tr
-\tc1 Jonah 
-\tc2 1301 
-\tr
-\tc1 Micah 
-\tc2 1315 
-\tr
-\tc1 Habakkuk 
-\tc2 1340 
-\tr
-\tc1 Zechariah 
-\tc2 1354 
-\tr
-\tc1 Malachi 
-\tc2 1360 
-\periph Table of Stories 
-\s2 STORIES  
-\tr
-\th1 Page 
-\th2 Title 
-\th3 Reference 
-\tr
-\tc1
-\tc2 Genesis 
-\tr
-\tc1 1 
-\tc2 Creation and Fall of Man 
-\tc3 1:1—3:24 
-\tr
-\tc1 16 
-\tc2 Adam’s Descendants 
-\tc3 4:1—5:32 
-\tr
-\tc1 22 
-\tc2 Noah and the Flood 
-\tc3 6:1—10:32 
-\tr
-\tc1 33 
-\tc2 The Tower of Babel 
-\tc3 11:1–9 
-\tr
-\tc1 35 
-\tc2 Abraham and Isaac 
-\tc3 11:10—25:18 
-\tr
-\tc1 82 
-\tc2 Esau and Jacob 
-\tc3 25:19—35:29 
-\tr
-\tc1 114 
-\tc2 Joseph and his brothers 
-\tc3 37:1—50:26 
-\tr
-\tc1
-\tc2 Exodus 
-\tr
-\tc1 159 
-\tc2 Moses in Egypt 
-\tc3 1:1—11:10 
-\tr
-\tc1 203 
-\tc2 The Passover and escape from Egypt 
-\tc3 12:1—15:21 
-\tr
-\tc1 224 
-\tc2 God cared for his people in the desert 
-\tc3 15:22—19:25 
-\tr
-\tc1 241 
-\tc2 God gave laws for his people 
-\tc3 20:1—24:18 
-\tr
-\tc1 251 
-\tc2 Telling about the Tabernacle and the Priests and the Sabbath 
-\tc3 25:1—31:18 
-\tr
-\tc1 267 
-\tc2 God’s people worshipped the Golden Calf 
-\tc3 32:1–35 
-\tr
-\tc1 275 
-\tc2 God renewed his Covenant with Israel 
-\tc3 33:1—34:35 
-\tr
-\tc1 283 
-\tc2 They built the Tabernacle 
-\tc3 35:4—40:38 
-\tr
-\tc1
-\tc2 Leviticus 
-\tr
-\tc1 292 
-\tc2 Laws about offerings and sacrifices 
-\tc3 1:1—4:35 
-\tr
-\tc1 299 
-\tc2 The Day of Atonement 
-\tc3 16:1–34 
-\tr
-\tc1 304 
-\tc2 Promises and Warnings 
-\tc3 19:1—27:34 
-\tr
-\tc1
-\tc2 Numbers 
-\tr
-\tc1 321 
-\tc2 Telling about the Priests’ work 
-\tc3 1:1—6:27 
-\tr
-\tc1 327 
-\tc2 The people complained against God and Moses 
-\tc3 9:15—12:16 
-\tr
-\tc1 336 
-\tc2 They were afraid to enter the Promised Land 
-\tc3 13:1—14:38 
-\tr
-\tc1 346 
-\tc2 God’s people in the desert place 
-\tc3 14:39—21:9 
-\tr
-\tc1 360 
-\tc2 The story about Balaam 
-\tc3 22:1—24:13 
-\tr
-\tc1
-\tc2 Deuteronomy 
-\tr
-\tc1 375 
-\tc2 Moses reminded the people of God’s laws 
-\tc3 1:1—5:33 
-\tr
-\tc1 387 
-\tc2 God will bless those who obey him, but disobedient people will be punished 
-\tc3 6:1—11:32 
-\tr
-\tc1 408 
-\tc2 Warning about worshipping other gods 
-\tc3 12:1—13:4 
-\tr
-\tc1 412 
-\tc2 Other laws and warnings 
-\tc3 14:1—26:19 
-\tr
-\tc1 425 
-\tc2 Choose the way of life and blessing 
-\tc3 28:1—30:20 
-\tr
-\tc1 434 
-\tc2 Moses final instructions 
-\tc3 31:1—34:12 
-\tr
-\tc1
-\tc2 Joshua 
-\tr
-\tc1 448 
-\tc2 Joshua led Israel into the Promised Land 
-\tc3 1:1—5:1 
-\tr
-\tc1 462 
-\tc2 The walls of Jericho fell down 
-\tc3 5:2—6:27 
-\tr
-\tc1 471 
-\tc2 Failure because of Achan’s sin 
-\tc3 7:1—8:35 
-\tr
-\tc1 481 
-\tc2 Joshua and the Gibeonites 
-\tc3 9:1—10:15 
-\tr
-\tc1 487 
-\tc2 The land was divided amongst the tribes 
-\tc3 11:1—20:9 
-\tr
-\tc1 493 
-\tc2 Joshua challenged the people to choose to serve only the true God 
-\tc3 23:1—24:33 
-\tr
-\tc1
-\tc2 Judges 
-\tr
-\tc1 503 
-\tc2 Israel had big trouble because they began to worship other gods 
-\tc3 1:1—2:23 
-\tr
-\tc1 511 
-\tc2 God appointed leaders to save Israel from their enemies 
-\tc3 3:1–30 
-\tr
-\tc1 514 
-\tc2 Deborah and Barak 
-\tc3 4:1—5:31 
-\tr
-\tc1 519 
-\tc2 Gideon 
-\tc3 6:1—9:57 
-\tr
-\tc1 534 
-\tc2 Samson 
-\tc3 13:1—16:31 
-\tr
-\tc1
-\tc2 Ruth 
-\tr
-\tc1 556 
-\tc2 Naomi and Ruth 
-\tc3 1:1–22 
-\tr
-\tc1 560 
-\tc2 Ruth worked in the field of Boaz 
-\tc3 2:1–23 
-\tr
-\tc1 564 
-\tc2 Boaz married Ruth 
-\tc3 3:1—4:22 
-\tr
-\tc1
-\tc2 1 Samuel 
-\tr
-\tc1 571 
-\tc2 The boy Samuel 
-\tc3 1:1—3:21 
-\tr
-\tc1 583 
-\tc2 Philistines took the Covenant Box 
-\tc3 4:1—5:12 
-\tr
-\tc1 590 
-\tc2 The people repented of their sin 
-\tc3 6:1—7:17 
-\tr
-\tc1 596 
-\tc2 Samuel anointed Saul to be king of Israel 
-\tc3 8:1—12:25 
-\tr
-\tc1 608 
-\tc2 Saul disobeyed the Lord 
-\tc3 13:1—15:35 
-\tr
-\tc1 618 
-\tc2 Samuel anointed David to become king in place of Saul 
-\tc3 16:1–23 
-\tr
-\tc1 622 
-\tc2 David killed the giant Goliath 
-\tc3 17:1–58 
-\tr
-\tc1 629 
-\tc2 Saul tried to kill David 
-\tc3 18:1—26:25 
-\tr
-\tc1 645 
-\tc2 Saul visited a witch doctor, and he died 
-\tc3 27:1—31:13 
-\tr
-\tc1
-\tc2 2 Samuel 
-\tr
-\tc1 649 
-\tc2 David became king, and brought the Covenant Box back to Jerusalem 
-\tc3 1:1—6:23 
-\tr
-\tc1 656 
-\tc2 More stories about King David 
-\tc3 7:1—12:24 
-\tr
-\tc1
-\tc2 1 Kings 
-\tr
-\tc1 670 
-\tc2 Solomon became king 
-\tc3 1:1—4:30 
-\tr
-\tc1 677 
-\tc2 Solomon built the Temple 
-\tc3 5:1—9:9 
-\tr
-\tc1 685 
-\tc2 Solomon turned away from God 
-\tc3 10:1—11:43 
-\tr
-\tc1 690 
-\tc2 Israel and Judah separated into two tribes 
-\tc3 12:1–33 
-\tr
-\tc1 694 
-\tc2 Israel sinned by worshipping other gods 
-\tc3 13:1—16:34 
-\tr
-\tc1 700 
-\tc2 Elijah the Prophet 
-\tc3 17:1—19:21 
-\tr
-\tc1 716 
-\tc2 Telling about Ahab and other kings 
-\tc3 21:1—22:53 
-\tr
-\tc1
-\tc2 2 Kings 
-\tr
-\tc1 722 
-\tc2 God took Elijah to heaven alive 
-\tc3 1:1—2:18 
-\tr
-\tc1 726 
-\tc2 God did miracles through Elisha the Prophet 
-\tc3 2:19—4:37 
-\tr
-\tc1 733 
-\tc2 Naaman the leper was healed 
-\tc3 5:1–27 
-\tr
-\tc1 737 
-\tc2 God saved his people from their enemies 
-\tc3 6:1—7:20 
-\tr
-\tc1 746 
-\tc2 Telling about kings of Israel and Judah 
-\tc3 8:16—16:20 
-\tr
-\tc1 760 
-\tc2 Israel Tribe was taken as slaves to Assyria 
-\tc3 17:1–24 
-\tr
-\tc1 762 
-\tc2 God saved Judah from the Assyrians because they believed and obeyed him 
-\tc3 18:1—19:37 
-\tr
-\tc1 768 
-\tc2 Judah’s bad king led the people into sin 
-\tc3 20:1—21:18 
-\tr
-\tc1 772 
-\tc2 Josiah broke down all the idols and turned the people back to God 
-\tc3 21:19—23:30 
-\tr
-\tc1 778 
-\tc2 Judah tribe kept on sinning against God 
-\tc3 23:31—24:20 
-\tr
-\tc1 781 
-\tc2 Enemies destroyed Jerusalem and took the people as slaves to Babylon 
-\tc3 25:1–21 
-\tr
-\tc1
-\tc2 Ezra 
-\tr
-\tc1 783 
-\tc2 The Jews returned to Jerusalem 
-\tc3 1:1–11 
-\tr
-\tc1 785 
-\tc2 They re‐built the Temple 
-\tc3 3:7—8:35 
-\tr
-\tc1
-\tc2 Nehemiah 
-\tr
-\tc1 791 
-\tc2 Nehemiah returned to Jerusalem 
-\tc3 1:1—2:20 
-\tr
-\tc1 797 
-\tc2 They overcame their enemies and rebuilt the walls of Jerusalem 
-\tc3 4:1–23 
-\tr
-\tc1 801 
-\tc2 Ezra read God’s laws to the people, and they repented and turned back to God 
-\tc3 8:1—10:29 
-\tr
-\tc1
-\tc2 Job 
-\tr
-\tc1 811 
-\tc2 Satan tested Job 
-\tc3 1:1—2:10 
-\tr
-\tc1 816 
-\tc2 Job’s Friends 
-\tc3 2:11—37:24 
-\tr
-\tc1 819 
-\tc2 The Lord answered Job and blessed him 
-\tc3 38:1—42:17 
-\tr
-\tc1
-\tc2 Psalms 
-\tr
-\tc1 822 
-\tc2 God is in control of all things 
-\tc3 1:1—16:11 
-\tr
-\tc1 833 
-\tc2 I am safe in God’s care 
-\tc3 19:1—27:14 
-\tr
-\tc1 844 
-\tc2 Praising God’s goodness 
-\tc3 32:1—49:20 
-\tr
-\tc1 869 
-\tc2 Prayer for forgiveness 
-\tc3 51:1–17 
-\tr
-\tc1 872 
-\tc2 God is our helper and Protector 
-\tc3 63:1—97:12 
-\tr
-\tc1 889 
-\tc2 Praise the Lord 
-\tc3 100:1—148:14 
-\tr
-\tc1
-\tc2 Isaiah 
-\tr
-\tc1 920 
-\tc2 God’s message to His people 
-\tc3 1:1—5:7 
-\tr
-\tc1 928 
-\tc2 Isaiah’s vision of the Lord’s Holiness 
-\tc3 6:1–13 
-\tr
-\tc1 932 
-\tc2 The Future King and His kingdom of peace 
-\tc3 7:1—12:6 
-\tr
-\tc1 942 
-\tc2 Judgement on the Wicked Ruler 
-\tc3 14:1–22 
-\tr
-\tc1 946 
-\tc2 God’s Way of Holiness and Blessing 
-\tc3 30:1—41:20 
-\tr
-\tc1 962 
-\tc2 God’s Promise to rescue his people 
-\tc3 42:1—43:28 
-\tr
-\tc1 973 
-\tc2 It is foolish to worship idols 
-\tc3 44:9–20 
-\tr
-\tc1 975 
-\tc2 God’s Plan for his people 
-\tc3 48:17—49:26 
-\tr
-\tc1 982 
-\tc2 The Lord’s Servant and His sufferings 
-\tc3 50:1—53:12 
-\tr
-\tc1 993 
-\tc2 God’s Love for his people 
-\tc3 54:1—59:21 
-\tr
-\tc1 1007 
-\tc2 God will save his people and bless them 
-\tc3 60:1—64:12 
-\tr
-\tc1 1022 
-\tc2 Rebellious people will be destroyed 
-\tc3 65:1–16 
-\tr
-\tc1 1025 
-\tc2 The new heaven and new earth 
-\tc3 65:17—66:2 
-\tr
-\tc1
-\tc2 Jeremiah 
-\tr
-\tc1 1027 
-\tc2 God called Jeremiah to be a prophet 
-\tc3 1:1–19 
-\tr
-\tc1 1031 
-\tc2 God’s care for Israel 
-\tc3 2:1–13 
-\tr
-\tc1 1034 
-\tc2 Israel turned away from God 
-\tc3 2:14—6:30 
-\tr
-\tc1 1041 
-\tc2 Jeremiah warned the people 
-\tc3 7:1—12:13 
-\tr
-\tc1 1053 
-\tc2 God will punish Israel for rejecting him 
-\tc3 14:1—19:15 
-\tr
-\tc1 1065 
-\tc2 The people didn’t like Jeremiah’s message 
-\tc3 20:1—26:24 
-\tr
-\tc1 1077 
-\tc2 Jeremiah’s letter to the Jews in Babylon 
-\tc3 29:1–23 
-\tr
-\tc1 1079 
-\tc2 God’s New Covenant will be written in people’s hearts 
-\tc3 31:1–40 
-\tr
-\tc1 1086 
-\tc2 They put Jeremiah in prison 
-\tc3 32:16—38:13 
-\tr
-\tc1 1099 
-\tc2 The Babylonians destroyed Jerusalem and took the people to be their slaves 
-\tc3 39:1–18 
-\tr
-\tc1 1101 
-\tc2 God’s judgement on Babylon 
-\tc3 50:1—51:49 
-\tr
-\tc1
-\tc2 Ezekiel 
-\tr
-\tc1 1113 
-\tc2 Ezekiel’s vision of God’s Throne 
-\tc3 1:1–28 
-\tr
-\tc1 1117 
-\tc2 God called Ezekiel to be his prophet to warn the people 
-\tc3 2:1—3:27 
-\tr
-\tc1 1123 
-\tc2 Personal responsibility before God 
-\tc3 18:1–32 
-\tr
-\tc1 1127 
-\tc2 God’s people kept on refusing to obey him 
-\tc3 20:1–49 
-\tr
-\tc1 1136 
-\tc2 Ezekiel appointed to be a Watchman 
-\tc3 33:1–33 
-\tr
-\tc1 1141 
-\tc2 False Shepherds and the Good Shepherd 
-\tc3 34:1–31 
-\tr
-\tc1 1147 
-\tc2 The dry bones will become alive again 
-\tc3 36:22—37:28 
-\tr
-\tc1 1155 
-\tc2 God’s perfect Temple will be filled with God’s glory 
-\tc3 40:1—44:9 
-\tr
-\tc1
-\tc2 Daniel 
-\tr
-\tc1 1161 
-\tc2 Four young Israelites in the King’s palace 
-\tc3 1:1–21 
-\tr
-\tc1 1165 
-\tc2 The King’s dream and its meaning 
-\tc3 2:1–49 
-\tr
-\tc1 1174 
-\tc2 God saved the three men in the fire 
-\tc3 3:1–30 
-\tr
-\tc1 1180 
-\tc2 God humbled the proud King 
-\tc3 4:1–37 
-\tr
-\tc1 1187 
-\tc2 The writing on the Wall 
-\tc3 5:1–31 
-\tr
-\tc1 1192 
-\tc2 Daniel in the lions’ den 
-\tc3 6:1–28 
-\tr
-\tc1 1198 
-\tc2 Daniel’s vision and his prayer for the people 
-\tc3 7:1—9:19 
-\tr
-\tc1 1209 
-\tc2 Telling about the End Times 
-\tc3 9:20—12:13 
-\tr
-\tc1
-\tc2 Hosea 
-\tr
-\tc1 1216 
-\tc2 Israel is like an unfaithful wife 
-\tc3 1:1—2:23 
-\tr
-\tc1 1224 
-\tc2 The Lord will bring His own people back to himself 
-\tc3 3:1—6:6 
-\tr
-\tc1 1232 
-\tc2 God loves His own people, but he will punish them for their sin 
-\tc3 11:1—13:16 
-\tr
-\tc1 1237 
-\tc2 Calling God’s people to leave their sin 
-\tc3 14:1–9 
-\tr
-\tc1
-\tc2 Joel 
-\tr
-\tc1 1240 
-\tc2 The land is destroyed by grasshoppers 
-\tc3 1:1–20 
-\tr
-\tc1 1244 
-\tc2 Warning that the Day of the Lord is near 
-\tc3 2:1–17 
-\tr
-\tc1 1249 
-\tc2 In the Last Days God will bless his own people and punish their enemies 
-\tc3 2:18—3:21 
-\tr
-\tc1
-\tc2 Amos 
-\tr
-\tc1 1259 
-\tc2 God will punish the wicked Nations and also his own people Israel 
-\tc3 1:1—3:8 
-\tr
-\tc1 1269 
-\tc2 God will punish rich people who oppress the poor people 
-\tc3 3:9—4:3 
-\tr
-\tc1 1271 
-\tc2 Calling God’s people to repent and leave their sin 
-\tc3 4:4—5:27 
-\tr
-\tc1 1278 
-\tc2 Israel will be destroyed because of pride 
-\tc3 6:1—8:14 
-\tr
-\tc1 1289 
-\tc2 God will punish the wicked nations and restore Israel 
-\tc3 9:1–15 
-\tr
-\tc1
-\tc2 Obadiah 
-\tr
-\tc1 1294 
-\tc2 The Lord will destroy Edom 
-\tc3 1:1–14 
-\tr
-\tc1 1298 
-\tc2 Israel will stand victorious for ever 
-\tc3 1:15–21 
-\tr
-\tc1
-\tc2 Jonah 
-\tr
-\tc1 1301 
-\tc2 Jonah tried to run away from the Lord 
-\tc3 1:1–17 
-\tr
-\tc1 1306 
-\tc2 Jonah’s prayer 
-\tc3 2:1–10 
-\tr
-\tc1 1308 
-\tc2 Jonah preached and the people repented 
-\tc3 3:1–10 
-\tr
-\tc1 1311 
-\tc2 Jonah’s anger and God’s mercy 
-\tc3 4:1–11 
-\tr
-\tc1
-\tc2 Micah 
-\tr
-\tc1 1315 
-\tc2 Judgement on those who rebel against God 
-\tc3 1:1–16 
-\tr
-\tc1 1319 
-\tc2 Judgement on those who oppress the poor 
-\tc3 2:1—3:12 
-\tr
-\tc1 1325 
-\tc2 The Lord will rule the world in peace 
-\tc3 4:1—5:15 
-\tr
-\tc1 1332 
-\tc2 Telling how the Lord wants us to live 
-\tc3 6:1—7:20 
-\tr
-\tc1
-\tc2 Habakkuk 
-\tr
-\tc1 1340 
-\tc2 Habakkuk questioned the Lord 
-\tc3 1:1–17 
-\tr
-\tc1 1344 
-\tc2 The Lord answered Habakkuk 
-\tc3 2:1–20 
-\tr
-\tc1 1349 
-\tc2 Habakkuk’s Prayer 
-\tc3 3:1–19 
-\tr
-\tc1
-\tc2 Zechariah 
-\tr
-\tc1 1354 
-\tc2 The Lord calls his people to return to him 
-\tc3 1:1–6 
-\tr
-\tc1 1356 
-\tc2 Telling about the future King 
-\tc3 9:9–17 
-\tr
-\tc1
-\tc2 Malachi 
-\tr
-\tc1 1360 
-\tc2 The priests and people disobeyed God’s laws 
-\tc3 1:1—2:16 
-\tr
-\tc1 1369 
-\tc2 The Day of Judgement is near 
-\tc3 2:17—3:5 
-\tr
-\tc1 1371 
-\tc2 God will bless those who freely give to him 
-\tc3 3:6–12 
-\tr
-\tc1 1373 
-\tc2 God will separate those who obey him and those who don’t 
-\tc3 3:13–18 
-\tr
-\tc1 1375 
-\tc2 The Day of the Lord is coming 
+\id FRT
+\ide UTF-8
+\periph Title Page
+\pc GODKU DHÄRUK
+\pc NININYŊUKUNHARA
+\pc NHERRAṈARA
+\pc Ŋurruthanharawuy gal'ŋu
+\pc ŋunhi dhawu'
+\pc Ḻakarama yukurra
+\pc dhärukkurru Gumatjkurruna
+\pc BIBLE SOCIETY IN AUSTRALIA
+\pc Canberra
+\periph Publication Data
+\pc Shorter Old Testament
+\pc in Gumatj
+\pc 265P
+\pc © The Bible Society in Australia Incorporated 1989
+\pc 100
+\pc ISBN 0 647 12631 1
+\periph Preface
+\s2 DHIYAŊUNYDJA DHÄRUKTHU ḺAKARAMANA YUKURRA DHÄWU'NA, ŊUNHI DHÄRUK YUKURRA DHÄRRA DHIYALAMI DJORRA'ŊURANA
+\p Dhuwalanydja Godku dhäruk ŋuliŋuru ŋäthiliŋuŋuru yarraṯaŋuru, yurru wukirriwuynydja Gumatjkurru dhärukkurru, märr nhuma yurru nhäma ŋunhiyi, ga waḏutja dharaŋan, ga marŋgiyirri yuwalk gal'ŋu Godku, ŋunhi nhaltjarra ŋayi ŋamaŋamayurruna ŋilimurrunha yolŋunha, märr yurru ŋilimurru bitjanna liŋgu nhina yukurra nhanukala nyeyalŋura djäkaŋura.
+\p Yo, ŋurruŋu ŋunhi dhäwu'yu yukurra ḻakarama beŋuru liŋgu ŋurru‐yirr'yunaraŋuru, ḻakarama yukurra ŋunhi ŋayi Godthu djäma yolŋukuŋala, märr yurru yolŋu'‐yulŋu nhina yukurra nhanŋuway yana Godku. Yurru yolŋunydja walala bilyurruna ŋapa‐wekanhamina Godku, ga dhiyaŋuna yätjthuna ŋunhi yolŋunhanydja barrkuwatjkuŋalana Godkalanydja. Bala yolŋunydja walala mirithinana yätjthina; bukmaknha dhika yolŋuyunydja djäma yukurrana walalaŋgalaynha ḏukṯukkurru. Yurru Godtja mukthurruna yana märr‐ŋamathina yukurrana ŋuriki yolŋu'‐yulŋuwu ŋunhi nhanukuŋuway djämawuy. Ga dhiyalami djorra'ŋura nhe yurru marŋgithirri ŋunhi Godthu djarr'yurruna Abrahamnha ga nhanukuŋu mala‐wunharawuynha, märr yurru ŋunhiyinydjayi nhanŋuwaynha wal'ŋu yolŋu walala miṯtji. Ga malanydja dhuwala walala Jew yäku bäpurrunydja.
+\p Yo, Godthu wekaŋala Jewnha malanha romnha, märr yurru walala buku‐ŋal'yun yukurra nhanŋu ŋuliwitjarra romkurru; ŋayi yurru bäy‐ḻakaramana walalaŋgu yätjpuy dhuwurrwuy liŋgu ŋuriŋi ŋunhi wäyin läm gulaŋ waṉḏirri yurru walalaŋgala dharapalŋura, märr yurru bitjanarayunydjayi walala yurru marrtji galkithirri, galkina yana Godkala. Ga bitjarrayi liŋgu Godthu wekaŋala walalaŋgu Jewwu rom, märr yurru walala nhina yana yukurra ŋamakurru nhanukiyingala yana romŋura. God ḏukṯukthina walala yurru wiripu bäpurru ga wiripu bäpurru marŋgiyirri nhanŋu ŋuliwitjan walalaŋgalaŋukurru Jewwalaŋukurru, walala yurru nhäma ga dharaŋan ŋunhi ŋayipi yana waŋgany yuwalkŋunydja wal'ŋu God waŋarr. Liŋgu Godtja dhuwala ŋayipi gäna garrkuḻuk, ganaŋ'thun yukurra yätjŋuru, bala ŋayi yukurra wirrki gal'ŋu goŋ‐nherraṉmirri ŋuriki walalaŋgu yolŋuwu ŋunhi walala yukurra malthun nhanŋuway romgu. Yurru ŋurikinydja walalaŋgu ŋunhi walala yukurra ŋurrkama ŋanya, ga yaka malthun nhanŋu romgu, ŋayinydja yurru ŋunhiyi dhä‐ḏir'yunna walalanha; walala yurru murrmurryunna, liŋgu ŋuriŋi yätjthu walalaŋgalay romdhu.
+\p Wiripunydja nhanŋu Godku yolŋu walala malthurruna nhanŋu dhärukku, ga bitjanarayuyi walala ŋuli nhinanha ŋamathanha yana yukurranha, nhanukiyingala yana Godkala nyeyalŋura djäkaŋura. Ga wiripunydja walala ŋuli ŋula nhäthamirriyu bilyuna, gonha'yuna yuwalkŋunhanydja Godnha, ga ŋunhana‐bala wiripuŋuwuna buku‐ŋal'yuna waŋarrwu, bala ŋuli marina bunanha bathalana; miriŋuna ŋuli bunanha walalaŋgu, ga wäŋana yätjkunha baḏuwaḏuyuna, ga yana liŋgu bala walala ŋuli yolŋunydja walala bilyuna balayi Godkala.
+\p Ŋunhala bala dhawar'yunaramirriŋura gali'ŋura djorra'ŋura nhe yurru maḻŋ'marama dhäwu wukirriwuy ŋurikiŋi walalaŋguŋu dhäwu‐gänharamirriwuŋu walalaŋguŋu, ŋunhi Godthu djuy'yurruna walalanha nhanukiyingalaŋuwu yolŋu'‐yulŋuwu. Wiripu‐guḻku'yunydja ŋuriŋi dhäwu‐gänharamirriyu walalay ŋuli waŋanha yukurranha ḻakaranha yolŋu'‐yulŋuwu gonha'yunarawu yätjku romgu, bala bilmaranha Godkala, märr walala yurru yaka yukurra bitjan liŋgu galŋa‐yätjthirri nhina ŋunhiliyi romŋura yätjŋura. Ga wiripuwurruyunydja dhäwu‐ḻakaranhamirriyu walalay ŋuli yukurranha ḻakaranha ŋunhina wal'ŋu dhäwu ŋunhi ŋayipina Godnha maḻŋ'maranhaminya ŋuli yukurranha walalaŋgala, nhaltjanna ŋayi yurru Godthu djäma yukurra ŋunhi ŋurikinydja walalaŋgu yolŋu'‐yulŋuwu ŋunhi walala yukurra märr‐ŋamathirri ga malthun nhanŋuway dhärukku, ga nhaltjanna yurru ŋunhana‐bala yalalanydja, ŋunhi ŋayi yurru Godthu walŋakuma nhanŋuwaynydja wal'ŋu ŋunhi yolŋunhanydja walalanha ga bukmaknha dhika yolŋunha ŋunha marrtji bäpurru buku‐ḻiw'marama nhina, ŋunhi ŋayi yurru walŋakumana walalanha ŋurikala Walŋakunharamirriwala Yolŋuwala ŋunhi ŋayi boŋguŋu djuy'yurru ŋanya lili.
+\p Yuwalknha bukmakthu dhiyaŋu djorrayu yukurra ḻakarama Godnha ŋanyapinyaynha, ŋunhi ŋayi nhaltjarra ŋäthilimirriyaŋala dhuwala wäŋa ŋaraka ŋurikinydja waluwu ŋunhi yurru ŋayipina wal'ŋu nhanŋuway gäthu'mirriŋuna Djesuna buna dhiyala munatha'ŋura, ga rakunydhirrina yurru ŋilimurruŋgala dharapulŋura, märr yurru ŋula yol märr‐yuwalkthirrinydja nhanŋu ga malthun nhanŋuwaynha dhärukku, ŋunhiyinydja yolŋu yurru walŋathirrina ŋuliwitjan Djesuwalaŋukurru gulaŋ‐waṉḏinyarayu.
+\p Dhuwalanydja djorra wukirriwuy wiripuwuŋu ga wiripuwuŋu yolŋu'‐yulŋuwuŋu barrkuwatj yana, yurru ŋayipi yana Godthu wekaŋalanydja marrtjina walalaŋgala dhäruktja malanha, ga yuwalknha dhuwalanydja dhäruk malanha nhanukuŋuwaynha yana dhäwu Godkuŋuna. Ŋuriŋiyi yolŋu'‐yulŋuyu wukirrinydja dhuwala dhäwuny'tja Hebrewkurru dhärukkurru, ga yalalana wiripuwurruyunydja dhuḏakthurruna bilmaraŋala ŋunhi yana liŋgu dhäruk ga ŋäpakililina dhäruklili bala wiripulili ga wiripulili dhäruklili guḻku'lilina. Bala dhiyaŋunydja‐wala nhuma yukurra yurru nhäma Gumatjkurruna ŋunhiyi yana liŋgu waŋgany dhäwu.
+\p Dhiyalami djorra'ŋura wiripunydja dhäwu malanha dhaŋaŋ dhäwu, balanyara yana liŋgu bitjan nhuma yurru maḻŋ'marama ŋunhi ŋäpakikurru dhärukkurru, ga wiripuŋuranydja makarr dhäruk malanha dhiyalami djorra'ŋura ḻakarama yukurra gurriri yana. Nhuma yurru dharaŋanna yana nhämanydja ŋunhiyinydja wukirriwuy märr‐gurriri, liŋgu ŋunhiyinydjayi dhäruk yukurra dhärra märr‐ṉapuŋga yana ŋuliŋuru wiripuŋuru dhärukŋuru.
+\p Guḻku' ŋunhi yäku dhiyalami dhäwuŋura ḏäl mirithirri waŋanharawu ga nhänharawu, bala ŋanapurru wukirri ŋunhiyi yäkunydja malanha märr‐dharaŋanarawu. Ŋunhi yurru nhe nhäma dhuwala wukirriwuynydja * bitjan dhiyalami dhäwu'ŋura, nhe yurru nhäma ŋunhiyi ŋäpakikurru ŋäṉarr ŋunhana gal'ŋu dhuḏiŋura djorra'ŋura.
+\p Ga ŋunhanydja bala dhawar'yunaraŋurana wal'ŋu nhe yurru maḻŋ'marama mali, wäŋana ŋarakana ḻakarama yukurra, ŋunhi yukurra milkumana dharapulnha malanha wanhami yukurrana maḻŋ'thurruna bitjarrayi ŋunhiyi dhäwu'yu yukurra ḻakaramana dhiyalami djorra'yuna.
+\p Ŋanapurru yukurra bukumirriyama Godnha, märr yurru nhuma marŋgiyirrina Godku nhanŋuway balakurru‐witjan djorra'kurru. Ŋanapurru ḏukṯuk nhumalaŋgu, nhuma yurru ḻiya‐ŋamaŋamayunmiyana nhunapinyay nhe buku‐ŋal'yunarawu yuwalkku ŋunha Godku, märr nhe nhina yukurra yurru ŋamakurru'yuna romdhu nhanukalaynha yana. Ga manymak yana ŋunhiyi New Testamenttja, nhuma yurru wiripunydja nhäma ŋunhiyi Gumatjkurrunydja dhärukkurru, liŋgu ŋunhiyinydjayi ḻakarama yukurra biyapulnha wal'ŋu Godnha, ga nhanŋu gäthu'mirriŋunha Djesu‐Christnha, ŋunhinhaŋgayi Walŋakunharamirrinha ŋunhi Godthu djuy'yurruna ŋanya lili yolŋuwu walalaŋgu walŋakunharawu, bukmakku bäpurruwu ŋunhi nhina yukurra dhiyalami munatha'ŋura.
+\periph Table of Contents
+\s2 BOOK NAMES
+\tr 
+\th1 
+\th2 Page
+\tr 
+\tc1 Genesis
+\tc2 1
+\tr 
+\tc1 Exodus
+\tc2 159
+\tr 
+\tc1 Leviticus
+\tc2 292
+\tr 
+\tc1 Numbers
+\tc2 321
+\tr 
+\tc1 Deuteronomy
+\tc2 375
+\tr 
+\tc1 Joshua
+\tc2 448
+\tr 
+\tc1 Judges
+\tc2 503
+\tr 
+\tc1 Ruth
+\tc2 556
+\tr 
+\tc1 1 Samuel
+\tc2 571
+\tr 
+\tc1 2 Samuel
+\tc2 649
+\tr 
+\tc1 1 Kings
+\tc2 670
+\tr 
+\tc1 2 Kings
+\tc2 722
+\tr 
+\tc1 Ezra
+\tc2 783
+\tr 
+\tc1 Nehemiah
+\tc2 791
+\tr 
+\tc1 Job
+\tc2 811
+\tr 
+\tc1 Psalms
+\tc2 822
+\tr 
+\tc1 Isaiah
+\tc2 920
+\tr 
+\tc1 Jeremiah
+\tc2 1027
+\tr 
+\tc1 Ezekiel
+\tc2 1113
+\tr 
+\tc1 Daniel
+\tc2 1161
+\tr 
+\tc1 Hosea
+\tc2 1216
+\tr 
+\tc1 Joel
+\tc2 1240
+\tr 
+\tc1 Amos
+\tc2 1259
+\tr 
+\tc1 Obadiah
+\tc2 1294
+\tr 
+\tc1 Jonah
+\tc2 1301
+\tr 
+\tc1 Micah
+\tc2 1315
+\tr 
+\tc1 Habakkuk
+\tc2 1340
+\tr 
+\tc1 Zechariah
+\tc2 1354
+\tr 
+\tc1 Malachi
+\tc2 1360
+\periph Table of Stories
+\s2 STORIES
+\tr 
+\th1 Page
+\th2 Title
+\th3 Reference
+\tr 
+\tc1 
+\tc2 Genesis
+\tr 
+\tc1 1
+\tc2 Creation and Fall of Man
+\tc3 1:1—3:24
+\tr 
+\tc1 16
+\tc2 Adam’s Descendants
+\tc3 4:1—5:32
+\tr 
+\tc1 22
+\tc2 Noah and the Flood
+\tc3 6:1—10:32
+\tr 
+\tc1 33
+\tc2 The Tower of Babel
+\tc3 11:1–9
+\tr 
+\tc1 35
+\tc2 Abraham and Isaac
+\tc3 11:10—25:18
+\tr 
+\tc1 82
+\tc2 Esau and Jacob
+\tc3 25:19—35:29
+\tr 
+\tc1 114
+\tc2 Joseph and his brothers
+\tc3 37:1—50:26
+\tr 
+\tc1 
+\tc2 Exodus
+\tr 
+\tc1 159
+\tc2 Moses in Egypt
+\tc3 1:1—11:10
+\tr 
+\tc1 203
+\tc2 The Passover and escape from Egypt
+\tc3 12:1—15:21
+\tr 
+\tc1 224
+\tc2 God cared for his people in the desert
+\tc3 15:22—19:25
+\tr 
+\tc1 241
+\tc2 God gave laws for his people
+\tc3 20:1—24:18
+\tr 
+\tc1 251
+\tc2 Telling about the Tabernacle and the Priests and the Sabbath
+\tc3 25:1—31:18
+\tr 
+\tc1 267
+\tc2 God’s people worshipped the Golden Calf
+\tc3 32:1–35
+\tr 
+\tc1 275
+\tc2 God renewed his Covenant with Israel
+\tc3 33:1—34:35
+\tr 
+\tc1 283
+\tc2 They built the Tabernacle
+\tc3 35:4—40:38
+\tr 
+\tc1 
+\tc2 Leviticus
+\tr 
+\tc1 292
+\tc2 Laws about offerings and sacrifices
+\tc3 1:1—4:35
+\tr 
+\tc1 299
+\tc2 The Day of Atonement
+\tc3 16:1–34
+\tr 
+\tc1 304
+\tc2 Promises and Warnings
+\tc3 19:1—27:34
+\tr 
+\tc1 
+\tc2 Numbers
+\tr 
+\tc1 321
+\tc2 Telling about the Priests’ work
+\tc3 1:1—6:27
+\tr 
+\tc1 327
+\tc2 The people complained against God and Moses
+\tc3 9:15—12:16
+\tr 
+\tc1 336
+\tc2 They were afraid to enter the Promised Land
+\tc3 13:1—14:38
+\tr 
+\tc1 346
+\tc2 God’s people in the desert place
+\tc3 14:39—21:9
+\tr 
+\tc1 360
+\tc2 The story about Balaam
+\tc3 22:1—24:13
+\tr 
+\tc1 
+\tc2 Deuteronomy
+\tr 
+\tc1 375
+\tc2 Moses reminded the people of God’s laws
+\tc3 1:1—5:33
+\tr 
+\tc1 387
+\tc2 God will bless those who obey him, but disobedient people will be punished
+\tc3 6:1—11:32
+\tr 
+\tc1 408
+\tc2 Warning about worshipping other gods
+\tc3 12:1—13:4
+\tr 
+\tc1 412
+\tc2 Other laws and warnings
+\tc3 14:1—26:19
+\tr 
+\tc1 425
+\tc2 Choose the way of life and blessing
+\tc3 28:1—30:20
+\tr 
+\tc1 434
+\tc2 Moses final instructions
+\tc3 31:1—34:12
+\tr 
+\tc1 
+\tc2 Joshua
+\tr 
+\tc1 448
+\tc2 Joshua led Israel into the Promised Land
+\tc3 1:1—5:1
+\tr 
+\tc1 462
+\tc2 The walls of Jericho fell down
+\tc3 5:2—6:27
+\tr 
+\tc1 471
+\tc2 Failure because of Achan’s sin
+\tc3 7:1—8:35
+\tr 
+\tc1 481
+\tc2 Joshua and the Gibeonites
+\tc3 9:1—10:15
+\tr 
+\tc1 487
+\tc2 The land was divided amongst the tribes
+\tc3 11:1—20:9
+\tr 
+\tc1 493
+\tc2 Joshua challenged the people to choose to serve only the true God
+\tc3 23:1—24:33
+\tr 
+\tc1 
+\tc2 Judges
+\tr 
+\tc1 503
+\tc2 Israel had big trouble because they began to worship other gods
+\tc3 1:1—2:23
+\tr 
+\tc1 511
+\tc2 God appointed leaders to save Israel from their enemies
+\tc3 3:1–30
+\tr 
+\tc1 514
+\tc2 Deborah and Barak
+\tc3 4:1—5:31
+\tr 
+\tc1 519
+\tc2 Gideon
+\tc3 6:1—9:57
+\tr 
+\tc1 534
+\tc2 Samson
+\tc3 13:1—16:31
+\tr 
+\tc1 
+\tc2 Ruth
+\tr 
+\tc1 556
+\tc2 Naomi and Ruth
+\tc3 1:1–22
+\tr 
+\tc1 560
+\tc2 Ruth worked in the field of Boaz
+\tc3 2:1–23
+\tr 
+\tc1 564
+\tc2 Boaz married Ruth
+\tc3 3:1—4:22
+\tr 
+\tc1 
+\tc2 1 Samuel
+\tr 
+\tc1 571
+\tc2 The boy Samuel
+\tc3 1:1—3:21
+\tr 
+\tc1 583
+\tc2 Philistines took the Covenant Box
+\tc3 4:1—5:12
+\tr 
+\tc1 590
+\tc2 The people repented of their sin
+\tc3 6:1—7:17
+\tr 
+\tc1 596
+\tc2 Samuel anointed Saul to be king of Israel
+\tc3 8:1—12:25
+\tr 
+\tc1 608
+\tc2 Saul disobeyed the Lord
+\tc3 13:1—15:35
+\tr 
+\tc1 618
+\tc2 Samuel anointed David to become king in place of Saul
+\tc3 16:1–23
+\tr 
+\tc1 622
+\tc2 David killed the giant Goliath
+\tc3 17:1–58
+\tr 
+\tc1 629
+\tc2 Saul tried to kill David
+\tc3 18:1—26:25
+\tr 
+\tc1 645
+\tc2 Saul visited a witch doctor, and he died
+\tc3 27:1—31:13
+\tr 
+\tc1 
+\tc2 2 Samuel
+\tr 
+\tc1 649
+\tc2 David became king, and brought the Covenant Box back to Jerusalem
+\tc3 1:1—6:23
+\tr 
+\tc1 656
+\tc2 More stories about King David
+\tc3 7:1—12:24
+\tr 
+\tc1 
+\tc2 1 Kings
+\tr 
+\tc1 670
+\tc2 Solomon became king
+\tc3 1:1—4:30
+\tr 
+\tc1 677
+\tc2 Solomon built the Temple
+\tc3 5:1—9:9
+\tr 
+\tc1 685
+\tc2 Solomon turned away from God
+\tc3 10:1—11:43
+\tr 
+\tc1 690
+\tc2 Israel and Judah separated into two tribes
+\tc3 12:1–33
+\tr 
+\tc1 694
+\tc2 Israel sinned by worshipping other gods
+\tc3 13:1—16:34
+\tr 
+\tc1 700
+\tc2 Elijah the Prophet
+\tc3 17:1—19:21
+\tr 
+\tc1 716
+\tc2 Telling about Ahab and other kings
+\tc3 21:1—22:53
+\tr 
+\tc1 
+\tc2 2 Kings
+\tr 
+\tc1 722
+\tc2 God took Elijah to heaven alive
+\tc3 1:1—2:18
+\tr 
+\tc1 726
+\tc2 God did miracles through Elisha the Prophet
+\tc3 2:19—4:37
+\tr 
+\tc1 733
+\tc2 Naaman the leper was healed
+\tc3 5:1–27
+\tr 
+\tc1 737
+\tc2 God saved his people from their enemies
+\tc3 6:1—7:20
+\tr 
+\tc1 746
+\tc2 Telling about kings of Israel and Judah
+\tc3 8:16—16:20
+\tr 
+\tc1 760
+\tc2 Israel Tribe was taken as slaves to Assyria
+\tc3 17:1–24
+\tr 
+\tc1 762
+\tc2 God saved Judah from the Assyrians because they believed and obeyed him
+\tc3 18:1—19:37
+\tr 
+\tc1 768
+\tc2 Judah’s bad king led the people into sin
+\tc3 20:1—21:18
+\tr 
+\tc1 772
+\tc2 Josiah broke down all the idols and turned the people back to God
+\tc3 21:19—23:30
+\tr 
+\tc1 778
+\tc2 Judah tribe kept on sinning against God
+\tc3 23:31—24:20
+\tr 
+\tc1 781
+\tc2 Enemies destroyed Jerusalem and took the people as slaves to Babylon
+\tc3 25:1–21
+\tr 
+\tc1 
+\tc2 Ezra
+\tr 
+\tc1 783
+\tc2 The Jews returned to Jerusalem
+\tc3 1:1–11
+\tr 
+\tc1 785
+\tc2 They re‐built the Temple
+\tc3 3:7—8:35
+\tr 
+\tc1 
+\tc2 Nehemiah
+\tr 
+\tc1 791
+\tc2 Nehemiah returned to Jerusalem
+\tc3 1:1—2:20
+\tr 
+\tc1 797
+\tc2 They overcame their enemies and rebuilt the walls of Jerusalem
+\tc3 4:1–23
+\tr 
+\tc1 801
+\tc2 Ezra read God’s laws to the people, and they repented and turned back to God
+\tc3 8:1—10:29
+\tr 
+\tc1 
+\tc2 Job
+\tr 
+\tc1 811
+\tc2 Satan tested Job
+\tc3 1:1—2:10
+\tr 
+\tc1 816
+\tc2 Job’s Friends
+\tc3 2:11—37:24
+\tr 
+\tc1 819
+\tc2 The Lord answered Job and blessed him
+\tc3 38:1—42:17
+\tr 
+\tc1 
+\tc2 Psalms
+\tr 
+\tc1 822
+\tc2 God is in control of all things
+\tc3 1:1—16:11
+\tr 
+\tc1 833
+\tc2 I am safe in God’s care
+\tc3 19:1—27:14
+\tr 
+\tc1 844
+\tc2 Praising God’s goodness
+\tc3 32:1—49:20
+\tr 
+\tc1 869
+\tc2 Prayer for forgiveness
+\tc3 51:1–17
+\tr 
+\tc1 872
+\tc2 God is our helper and Protector
+\tc3 63:1—97:12
+\tr 
+\tc1 889
+\tc2 Praise the Lord
+\tc3 100:1—148:14
+\tr 
+\tc1 
+\tc2 Isaiah
+\tr 
+\tc1 920
+\tc2 God’s message to His people
+\tc3 1:1—5:7
+\tr 
+\tc1 928
+\tc2 Isaiah’s vision of the Lord’s Holiness
+\tc3 6:1–13
+\tr 
+\tc1 932
+\tc2 The Future King and His kingdom of peace
+\tc3 7:1—12:6
+\tr 
+\tc1 942
+\tc2 Judgement on the Wicked Ruler
+\tc3 14:1–22
+\tr 
+\tc1 946
+\tc2 God’s Way of Holiness and Blessing
+\tc3 30:1—41:20
+\tr 
+\tc1 962
+\tc2 God’s Promise to rescue his people
+\tc3 42:1—43:28
+\tr 
+\tc1 973
+\tc2 It is foolish to worship idols
+\tc3 44:9–20
+\tr 
+\tc1 975
+\tc2 God’s Plan for his people
+\tc3 48:17—49:26
+\tr 
+\tc1 982
+\tc2 The Lord’s Servant and His sufferings
+\tc3 50:1—53:12
+\tr 
+\tc1 993
+\tc2 God’s Love for his people
+\tc3 54:1—59:21
+\tr 
+\tc1 1007
+\tc2 God will save his people and bless them
+\tc3 60:1—64:12
+\tr 
+\tc1 1022
+\tc2 Rebellious people will be destroyed
+\tc3 65:1–16
+\tr 
+\tc1 1025
+\tc2 The new heaven and new earth
+\tc3 65:17—66:2
+\tr 
+\tc1 
+\tc2 Jeremiah
+\tr 
+\tc1 1027
+\tc2 God called Jeremiah to be a prophet
+\tc3 1:1–19
+\tr 
+\tc1 1031
+\tc2 God’s care for Israel
+\tc3 2:1–13
+\tr 
+\tc1 1034
+\tc2 Israel turned away from God
+\tc3 2:14—6:30
+\tr 
+\tc1 1041
+\tc2 Jeremiah warned the people
+\tc3 7:1—12:13
+\tr 
+\tc1 1053
+\tc2 God will punish Israel for rejecting him
+\tc3 14:1—19:15
+\tr 
+\tc1 1065
+\tc2 The people didn’t like Jeremiah’s message
+\tc3 20:1—26:24
+\tr 
+\tc1 1077
+\tc2 Jeremiah’s letter to the Jews in Babylon
+\tc3 29:1–23
+\tr 
+\tc1 1079
+\tc2 God’s New Covenant will be written in people’s hearts
+\tc3 31:1–40
+\tr 
+\tc1 1086
+\tc2 They put Jeremiah in prison
+\tc3 32:16—38:13
+\tr 
+\tc1 1099
+\tc2 The Babylonians destroyed Jerusalem and took the people to be their slaves
+\tc3 39:1–18
+\tr 
+\tc1 1101
+\tc2 God’s judgement on Babylon
+\tc3 50:1—51:49
+\tr 
+\tc1 
+\tc2 Ezekiel
+\tr 
+\tc1 1113
+\tc2 Ezekiel’s vision of God’s Throne
+\tc3 1:1–28
+\tr 
+\tc1 1117
+\tc2 God called Ezekiel to be his prophet to warn the people
+\tc3 2:1—3:27
+\tr 
+\tc1 1123
+\tc2 Personal responsibility before God
+\tc3 18:1–32
+\tr 
+\tc1 1127
+\tc2 God’s people kept on refusing to obey him
+\tc3 20:1–49
+\tr 
+\tc1 1136
+\tc2 Ezekiel appointed to be a Watchman
+\tc3 33:1–33
+\tr 
+\tc1 1141
+\tc2 False Shepherds and the Good Shepherd
+\tc3 34:1–31
+\tr 
+\tc1 1147
+\tc2 The dry bones will become alive again
+\tc3 36:22—37:28
+\tr 
+\tc1 1155
+\tc2 God’s perfect Temple will be filled with God’s glory
+\tc3 40:1—44:9
+\tr 
+\tc1 
+\tc2 Daniel
+\tr 
+\tc1 1161
+\tc2 Four young Israelites in the King’s palace
+\tc3 1:1–21
+\tr 
+\tc1 1165
+\tc2 The King’s dream and its meaning
+\tc3 2:1–49
+\tr 
+\tc1 1174
+\tc2 God saved the three men in the fire
+\tc3 3:1–30
+\tr 
+\tc1 1180
+\tc2 God humbled the proud King
+\tc3 4:1–37
+\tr 
+\tc1 1187
+\tc2 The writing on the Wall
+\tc3 5:1–31
+\tr 
+\tc1 1192
+\tc2 Daniel in the lions’ den
+\tc3 6:1–28
+\tr 
+\tc1 1198
+\tc2 Daniel’s vision and his prayer for the people
+\tc3 7:1—9:19
+\tr 
+\tc1 1209
+\tc2 Telling about the End Times
+\tc3 9:20—12:13
+\tr 
+\tc1 
+\tc2 Hosea
+\tr 
+\tc1 1216
+\tc2 Israel is like an unfaithful wife
+\tc3 1:1—2:23
+\tr 
+\tc1 1224
+\tc2 The Lord will bring His own people back to himself
+\tc3 3:1—6:6
+\tr 
+\tc1 1232
+\tc2 God loves His own people, but he will punish them for their sin
+\tc3 11:1—13:16
+\tr 
+\tc1 1237
+\tc2 Calling God’s people to leave their sin
+\tc3 14:1–9
+\tr 
+\tc1 
+\tc2 Joel
+\tr 
+\tc1 1240
+\tc2 The land is destroyed by grasshoppers
+\tc3 1:1–20
+\tr 
+\tc1 1244
+\tc2 Warning that the Day of the Lord is near
+\tc3 2:1–17
+\tr 
+\tc1 1249
+\tc2 In the Last Days God will bless his own people and punish their enemies
+\tc3 2:18—3:21
+\tr 
+\tc1 
+\tc2 Amos
+\tr 
+\tc1 1259
+\tc2 God will punish the wicked Nations and also his own people Israel
+\tc3 1:1—3:8
+\tr 
+\tc1 1269
+\tc2 God will punish rich people who oppress the poor people
+\tc3 3:9—4:3
+\tr 
+\tc1 1271
+\tc2 Calling God’s people to repent and leave their sin
+\tc3 4:4—5:27
+\tr 
+\tc1 1278
+\tc2 Israel will be destroyed because of pride
+\tc3 6:1—8:14
+\tr 
+\tc1 1289
+\tc2 God will punish the wicked nations and restore Israel
+\tc3 9:1–15
+\tr 
+\tc1 
+\tc2 Obadiah
+\tr 
+\tc1 1294
+\tc2 The Lord will destroy Edom
+\tc3 1:1–14
+\tr 
+\tc1 1298
+\tc2 Israel will stand victorious for ever
+\tc3 1:15–21
+\tr 
+\tc1 
+\tc2 Jonah
+\tr 
+\tc1 1301
+\tc2 Jonah tried to run away from the Lord
+\tc3 1:1–17
+\tr 
+\tc1 1306
+\tc2 Jonah’s prayer
+\tc3 2:1–10
+\tr 
+\tc1 1308
+\tc2 Jonah preached and the people repented
+\tc3 3:1–10
+\tr 
+\tc1 1311
+\tc2 Jonah’s anger and God’s mercy
+\tc3 4:1–11
+\tr 
+\tc1 
+\tc2 Micah
+\tr 
+\tc1 1315
+\tc2 Judgement on those who rebel against God
+\tc3 1:1–16
+\tr 
+\tc1 1319
+\tc2 Judgement on those who oppress the poor
+\tc3 2:1—3:12
+\tr 
+\tc1 1325
+\tc2 The Lord will rule the world in peace
+\tc3 4:1—5:15
+\tr 
+\tc1 1332
+\tc2 Telling how the Lord wants us to live
+\tc3 6:1—7:20
+\tr 
+\tc1 
+\tc2 Habakkuk
+\tr 
+\tc1 1340
+\tc2 Habakkuk questioned the Lord
+\tc3 1:1–17
+\tr 
+\tc1 1344
+\tc2 The Lord answered Habakkuk
+\tc3 2:1–20
+\tr 
+\tc1 1349
+\tc2 Habakkuk’s Prayer
+\tc3 3:1–19
+\tr 
+\tc1 
+\tc2 Zechariah
+\tr 
+\tc1 1354
+\tc2 The Lord calls his people to return to him
+\tc3 1:1–6
+\tr 
+\tc1 1356
+\tc2 Telling about the future King
+\tc3 9:9–17
+\tr 
+\tc1 
+\tc2 Malachi
+\tr 
+\tc1 1360
+\tc2 The priests and people disobeyed God’s laws
+\tc3 1:1—2:16
+\tr 
+\tc1 1369
+\tc2 The Day of Judgement is near
+\tc3 2:17—3:5
+\tr 
+\tc1 1371
+\tc2 God will bless those who freely give to him
+\tc3 3:6–12
+\tr 
+\tc1 1373
+\tc2 God will separate those who obey him and those who don’t
+\tc3 3:13–18
+\tr 
+\tc1 1375
+\tc2 The Day of the Lord is coming
 \tc3 4:1–6 
