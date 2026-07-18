@@ -73,7 +73,7 @@ jobs:
               while IFS= read -r line; do
                 key="${line%%: *}"
                 value="${line#*: }"
-                value=$(printf '%s' "$value" | sed 's/\\/\\\\/g; s/"/\\"/g')
+                value=$(printf '%s' "$value" | python3 -c "import sys,json;s=sys.stdin.read();s=''.join(c if ord(c)<128 else'&#%d;'%ord(c)for c in s);print(json.dumps(s)[1:-1],end='')")
                 meta_json="$meta_json,\"$key\":\"$value\""
               done < "$dir/metadata"
             fi
