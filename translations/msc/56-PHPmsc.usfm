@@ -1,178 +1,178 @@
-\id PHP  
-\h Filipikailu Suran 
-\toc3 PHP 
-\toc1 Filipikailu 
-\toc2 FIL 
-\mt1 Filipikailu 
-\mt2 Pɔli Alla la Kuma Mɛn Nawa Filipikailu Ma 
-\ip Isa la Talibidenba Pɔli le Alla la kuma ɲin sɛbɛni Isa la mɔɔilu ma mɛnilu ye siini Filipe so kɔndɔ. Waati taminilu, Pɔli tɛrɛ ra kawandili bɔ ye. Ii lemɛniya ka sabati kosɛbɛ, haan ka Pɔli dɛmɛn a baara ri yɔrɔ gbɛrɛ la. Wo bɛɛ ɲabɔni Keladenilu Kɛwaliilu kitabu yɔrɔ kɔndɔ a suran 16. 
-\ip Pɔli ye wa Romi kaso la a lemɛniya la ko rɔ, Alla ka a kɛ a ye kitabu sɛbɛ lemɛniya jamailu ma. Pɔli ka kitabu kelen sɛbɛ Filipikailu ma. A ka ii lalemɛniya kosa ii ye to Alla sawo kɔndɔ, ii fanan ye kɛ misali ɲuma ri mɛn di se a kɛla mɔɔ gbɛrɛ ye bila Isa kɔfɛ. Pɔli ka a labila ii ma ko ii ti se ii jɛrɛ kisila ii baara ɲumailu fɛ, fɔɔ Isa baraka rɔ mɛn a jɛrɛ bɔni sarakayala dunuɲa bɛɛ yɛ. 
-\ip Talibidenba Pɔli ka Isa la ko Kibaro Ɲuma kawandili bɔ le Filipe so kɔndɔ Kirikailu jamana rɔ, a ka lemɛniya jama ladɛn damira ye a kelaya taama filana le (Keladenilu Kɛwaliilu suran 16 kuma diya 12 haan 24 ragbɛ). San dando taminni, a ye kaso la waati mɛn na (Filipikailu suran 1 kuma diya 7 ragbɛ), Talibidenba Pɔli ka nakelenɲɔɔya sɛbɛ sɛbɛ Filipikailu ma. A ye a fɛ ii nuwali la ko fen ba la ko rɔ ii tɛrɛ ra mɛnilu lana a ma don Epaforodite bolo, ale jɛrɛ ka tɔrɔya waati mɛn na. A fanan ye a fɛ le a ye a fɔ ii yɛ ko ii ri ii fanka don ii ri a telen Alla la Ɲenematɔmɔnin ɲa kɔrɔ. Ii fanan kana kunfan wuya dinailu fɛ mɛnilu ye ii jamana rɔ. 
-\ip Kitabu yɔrɔ ɲin damira (suran 1 kuma diya 1 haan 11), Pɔli ka a sɛwa ni a waliɲuma lɔn de jirakala Filipe lemɛniya mɔɔilu la. Wo kɔ rɔ, a ka a jɛrɛ ɲa ɲafɔ. A ka jususuma mɛn sɔrɔn Isa baraka rɔ, a ka wo yiraka hali a tɛ a lɔn Romikailu ye mɛn kɛla a la kaso la. (Filipikailu suran 1 kuma diya 12 haan 26) A ka ii kawandi ko ii ye to lemɛniya bɛrɛ rɔ, ka bɛn ladon ii tɛma, ka kolo ii ɲɔɔn ma, nii ɲuma tora ii bolo mɛn bɔni Isa ma (suran 1 kuma diya 27 haan suran 2 kuma diya 18). Yani ii fanan ka ii ɲɔɔn yen, Pɔli ka a fɔ, a ye Filipikailu keladen Epaforodite ni Pɔli kɔfɛbilailu Timote ye to ii ni Filipikailu tɛma (Suran 2 kuma diya 19 haan 30). 
-\ip Wo kɔ rɔ, Pɔli ka ii lalɔn mɔɔilu ko ma mɛnilu tɛ telenni Isa la ko Kibaro Ɲuma yɛ. A ka a fɔ Filipikailu yɛ ko ii ye to ikomin ale, ka ii fanka don lemɛniya rɔ, ii tora ikomin Isa (Filipikailu suran 3). Kitabu yɔrɔ ɲin rajanni kawandi siyaman de ma ii ni nuwali bɔlailu ni tuwaliilu (Filipikailu suran 4). Ye, Isa la mɔɔilu ye nɔ lemɛniya sɔrɔn Kitabu yɔrɔ ɲin fɛ. 
-\c 1  
-\s1 Tuwaliilu 
-\p  
-\v 1 Nde Pɔli ni Timote, Ɲenematɔmɔnin Isa la baarakɛlailu, an ka ɲin de sɛbɛ ka a lawa aile Ɲenematɔmɔnin na jama sɛniman na mɛnilu ye Filipi so kɔndɔ a ni dina kuntiilu ni dɛmɛnninnailu.  
-\v 2 An Fa Alla a ni Maari Isa Ɲenematɔmɔnin ye hina ni jususuma di ai ma. 
-\s1 Pɔli la Alla matara Filipe lemɛniya mɔɔilu yɛ 
-\p  
-\v 3 Ai la ko wa labila n ma waati si ma, n di baraka bila Alla yɛ.  
-\v 4 N ye Alla matarala ai yɛ sɛwa le rɔ waati bɛɛ,  
-\v 5 ka a masɔrɔn ai ra n dɛmɛn Isa la ko Kibaro Ɲuma lase diya ka bɔ lon fɔlɔ ma haan bi.  
-\v 6 N lani a la fewu, Alla mɛn ka baara ɲuma ɲin damira ai tɛma, a ri a lakanbali haan a la Ɲenematɔmɔnin Isa na lon.  
-\v 7 A bɛnni ai bɛɛ la diyaɲɛ ye to n dɔ ɲa kelen dɔ, ka a masɔrɔn ai la ko lamarani n jusu rɔ. Baa ni n sidini jɔlɔkɔ la, wala ni n ye Isa la ko Kibaro Ɲuma kɛlɛ kɛla, ka a ɲabɔ, an bɛɛ ye Alla la sɔli rɔ.  
-\v 8 Alla le n sere ri ko ai la lɔɔ ye n na kaninteya bɛrɛ rɔ mɛn bɔni Isa Ɲenematɔmɔnin jɛrɛ rɔ. 
-\p  
-\v 9 N na Alla matarali le ɲin di: Ai la kaninteya ye makafu fewu, lɔnnin ni famunyali bɛrɛ la,  
-\v 10 kosa ai ye se ko fisamantɛ lɔnna, ka to fɛɛtanya ni joo korontanya rɔ haan Ɲenematɔmɔnin na lon.  
-\v 11 Ai ye dafa telenbaya jiriden dɔ mɛnilu ye bɔla Isa Ɲenematɔmɔnin dɔ, Alla gbiliya ko ni a bato ko rɔ. 
-\s1 Pɔli ye kaso la 
-\p  
-\v 12 Nakelenɲɔɔmailu, n ye a fɛ le, ai ye a lɔn ko mɛnilu kɛra n na, woilu ra Isa la ko Kibaro Ɲuma dɛmɛn, ka wa ɲafɛ.  
-\v 13 Ka a masɔrɔn a ra yiraka mansa la bɔlɔn kɔnɔgbɛnna bɛɛ ni mɔɔilu bɛɛ la, ko n ye kaso la Ɲenematɔmɔnin de la ko rɔ,  
-\v 14 Nakelenɲɔɔ siyaman, mɛnilu ka ii la landaya la Maari rɔ, baa n bilani kaso la, woilu ra wakali sɔrɔn Alla la kuma lase diya kosɛbɛ, ii ma silan. 
-\p  
-\v 15 Tuɲa le wo ri, ii le doilu ye Ɲenematɔmɔnin na ko kawandili bɔla minlɛ ni bɛnbaliya le rɔ, kɔni doilu ye a kɛla wɔnike ɲumaya le rɔ.  
-\v 16 Woilu ye a kɛla kaninteya le rɔ, ka a masɔrɔn ii ka a lɔn ko Alla ka n lɔ yan Isa la ko Kibaro Ɲuma la kɛlɛ kɛ ko le rɔ.  
-\v 17 Doilu ye Ɲenematɔmɔnin na ko kawandili bɔla nata le rɔ. Ii miriyailu ma ɲi. Ii mirini ko ii ye do lala n na tɔrɔya kan kaso la. 
-\p  
-\v 18 Foyi tɛ wo ri. Ni ii miriya kɛra a ɲuma ri, ni a kɛra juuman di, Ɲenematɔmɔnin na ko ra lase ɲa bɛɛ ma. Wo ra n sɛwa, n di to sɛwa rɔ fanan.  
-\v 19 Ka a masɔrɔn n ka a lɔn ko wo bɛɛ ye kɛla n na kisi le ri ai la Alla mataraliilu ni Isa Ɲenematɔmɔnin na Nii baraka le rɔ.  
-\v 20 N ye mɛn makɔnɔla, ka n jii la a rɔ ko n kana maloya ko si sɔrɔn muumɛ. Kɔni n ye lala a la ten ikomin waati taminniilu rɔ kosa Ɲenematɔmɔnin di gbiliya n faribanku rɔ, ni n tora n nii la, wala ni n faara.  
-\v 21 Ka a masɔrɔn Ɲenematɔmɔnin de kɛni nde la dunuɲaratɛɛ ri, ka saya kɛ tɔnɔ ri n yɛ. 
-\p  
-\v 22 Kɔni ni n tora nii la faribanku rɔ, n di se baara tɔnɔma do kɛla. N ka kan n ye nfen kɛ? N ma a lɔn.  
-\v 23 N gbɛrɛnni ko fila ɲin bɛɛ la: N ye a fɛ ka bɔ dunuɲa ɲin dɔ, ka wa to Ɲenematɔmɔnin tɔrɔfɛ, wo le ka fisa kosɛbɛ.  
-\v 24 Kɔni ai le la ko rɔ, a bɛnni n ye to n nii la faribanku rɔ.  
-\v 25 Baa n lani wo la, n da a lɔn ko n di to ai tɛma kosa ai ye wa ɲafɛ, ka sɛwa ai la lemɛniya rɔ.  
-\v 26 Kosa n wa n kɔsɛ ai tɔrɔfɛ tuma mɛn na, ai ri Ɲenematɔmɔnin Isa matɔɔ makafu n na ko rɔ. 
-\p  
-\v 27 Kɔni, ai taama ɲa ye bɛn Ɲenematɔmɔnin na Kibaro Ɲuma ma, kosa ni n di na ai tɔrɔfɛ, wala ni n ye jan, n ye a mɛn de ko ai ye to hankili kelen dɔ, ko ai ye ai bolo don ai ɲɔɔn bolo ka Kibaro Ɲuma lase lemɛniya rɔ.  
-\v 28 Ai kana silan ai kɛlɛɲɔɔilu ɲɛrɔ muumɛ! Wo ye a yirakala ii la le ko ii ri halaki, kɔni ai le ri kisi Alla baraka rɔ.  
-\v 29 Baa a ra a sɔn a la hina rɔ ko ai ye la Ɲenematɔmɔnin na, wo kelen tɛ kɔni ka tɔrɔ a la ko rɔ fanan,  
-\v 30 ai ye to wo kɛlɛ kelen donna, ai ka n yen mɛn donna, ikomin ai ra a mɛn ɲa mɛn ma, haan sisen n ye wo kan. 
-\c 2  
-\s1 Isa ladɛn ko 
-\p  
-\v 1 Wo rɔ, ni Ɲenematɔmɔnin ye fanka si dila ai ma, wala ni a la kaninteya ye masabarili si dila ai ma, wala ni bɛn si ye ai ni Alla la Nii Sɛniman tɛma, wala ni kaninteya ni kininkinin si ye ai rɔ,  
-\v 2 nba, ai ye n na sɛwa lakanbali, ka bɛn ai ɲɔɔn ma, ka kaninteya kelen to ai tɛma, ka kɛ jusu ni hankili kelen dɔ.  
-\v 3 Ai kana foyi kɛ kɔrɔndiya rɔ wala jɛrɛdabaya rɔ, kɔni ai ye ai jɛrɛ majii, ka doilu jate ka tamin ai jɛrɛ la.  
-\v 4 Ai kana ai miri ai makoilu gbansan ma fo doilu fanan ta. 
-\p  
-\v 5 Ai kɛɲa ye to ai ɲɔɔn tɛma ikomin Ɲenematɔmɔnin, Isa. 
-\q1  
-\v 6 Allaya tɛrɛ ye ale mɛn dɔ, 
-\q1 a ma a miri ko a ri wo lamara a jɛrɛ rɔ. 
-\q1  
-\v 7 Kɔni a ka a ban a jɛrɛ rɔ, 
-\q1 ka a jɛrɛ kɛ jɔn di, 
-\q1 ka to adamadenya ɲa ma. 
-\q1 A ka adamadenya sɔrɔnni, 
-\q1  
-\v 8 a kolora Alla la kuma kɔrɔ 
-\q1 ka sɔn saya ma haan a gbɔngbɔnda jiri kan. 
-\q1  
-\v 9 Wo le ka a kɛ, 
-\q1 Alla ka a lɔdiya fɔlɔ di a ma gbiliya rɔ, 
-\q1 ka tɔɔ di a ma 
-\q1 mɛn ka bon tɔɔ bɛɛ ri, 
-\q1  
-\v 10 kosa mɛnilu bɛɛ ye sankolo ma 
-\q1 mɛnilu ye duukolo kan a ni a kɔrɔ, 
-\q1 ii wa Isa tɔɔ mɛn waati mɛn na, 
-\q1 kunbelen bɛɛ ri ɲɔnkin a kɔrɔ, 
-\q1  
-\v 11 nɛn bɛɛ ri a latɛɛ 
-\q1 ko Ɲenematɔmɔnin Isa le Maari ri, 
-\q1 Fa Alla gbiliya ko rɔ. 
-\s1 Ai ye mɛlɛn ikomin kɛnɛya dunuɲa rɔ 
-\p  
-\v 12 Wo rɔ, n kanintenilu, ai dorinnin n na kuma mirala ɲa mɛn ma n ɲakɔrɔ, ai ye a mira n kɔma fanan ka tamin wo la ten, ka to ai la kisi ko lakanbalila silan ni yɛrɛyɛrɛ rɔ.  
-\v 13 Ka a masɔrɔn Alla le baarala ai rɔ, kosa ai wɔnike ni ai kɛwaliilu ye bɛn a diyana ko ma. 
-\p  
-\v 14 Ai ye ko bɛɛ kɛ hali ai kana a kɛ dalakasili ni ko masɔsɔli rɔ,  
-\v 15 kosa ai ye kɛ sɔn tɛ mɛnilu la, ka sɛninya. Ai ye kɛ Alla denilu ri, fɛɛ tɛ mɛnilu la, mɛnilu ye mɛlɛnna ikomin loloilu sankolo ma farɔkɛ telenbali ni sɛninyabaliilu tɛma,  
-\v 16 ai ri kɛ nii lakisi kuma lasela tuma mɛn na, kosa n ye n waso ai la Ɲenematɔmɔnin na lon ko n na dunuɲaratɛɛ ni n na baara kɛni tɛ ko fuu ri. 
-\p  
-\v 17 Hali ni n faara ai yɛ, ka kɛ ikomin minninfen saraka mɛn ye latɔnna ai la ko rɔ, ka la ai la lemɛniya baara kan Alla ɲakɔrɔ mɛn fanan kɛni ikomin saraka, wo rɔ n di sɛwa wo fanan dɔ ai ri sɛwa nde tɔrɔfɛ.  
-\v 18 Ai fanan ye sɛwa wo ɲa ma, ka to an ɲɔɔn fɛ sɛwa rɔ. 
-\s1 Timɔte ni Epaforodite la ko 
-\p  
-\v 19 N jii lani Maari Isa rɔ ko, n di Timote lawa ai ma jona, kosa nde jɛrɛ ri jususuma ɲa mɛn ma ai kibaroilu la ko rɔ.  
-\v 20 Mɔɔ gbɛrɛ tɛ n bolo mɛn hamini ai la ko rɔ ikomin ale.  
-\v 21 Baa bɛɛ ye tɔnɔ le dɔrɔn ɲininna ii jɛrɛ yɛ. Ii tɛ Isa Ɲenematɔmɔnin ta ɲininna.  
-\v 22 Kɔni ai jɛrɛ ka lɔn ko Timɔte ra a kɛɲa yiraka, ka a jɛrɛ kɛ Kibaro Ɲuma baaraden di n tɔrɔfɛ ikomin dencɛ ni a fa.  
-\v 23 N ye a fɛ ka a lawa ai ma, n wa n na koilu yen gbɛni waati mɛn na.  
-\v 24 N lani a la Maari baraka rɔ ko n fanan jɛrɛ ri wa ai tɔrɔfɛ jona. 
-\p  
-\v 25 N da a miri ko a fɛrɛ tɛ ye fo n ye nakelenɲɔɔ Epaforodite lasɛ ai ma ikɔ tuun, n baaraɲɔɔ ni n kɛlɛkɛɲɔɔ, ai ka mɛn nana n ma, ai fenilu di a ma n dɛmɛn ko rɔ.  
-\v 26 Ai bɛɛ yen lɔɔ ye a la kosɛbɛ! A ra kunnagboya baa ai ra a la jankarɔ la ko mɛn.  
-\v 27 Tuɲa le a ri, a jankarɔra le yati! A tɛrɛ toni dɔɔni a ye faa. Kɔni Alla kininkininda a ma. A ma kininkinin a kelen ma, kɔni nde fanan, kosa wo sunun kana la n na tɔrɔya kan.  
-\v 28 Wo le rɔ, n ye a fɛ ka a lawa ai ma jona kosa ai wa a yen waati mɛn na, ai ye sɛwa, n jusu fanan ye la dɔɔni.  
-\v 29 Ai ye a lasɛnɛ sɛwa ba rɔ Maari tɔɔ rɔ. Ai ye wo mɔɔ su gbiliya,  
-\v 30 baa a tɛrɛ ye faala le Ɲenematɔmɔnin na baara la ko rɔ. A tɛrɛ sɔnni a nii di ko rɔ kosa a ye n dɛmɛn ai le jɛrɛ tɛrɛ ti se mɛn kɛla. 
-\c 3  
-\s1 Kisi sɔrɔn ko 
-\p  
-\v 1 Sisen, nakelenɲɔɔmailu, aile ye sɛwa Maari la! Wo tɛ n tɔrɔ ni n kɔsɛra wo koilu ma n tɛrɛ ra mɛnilu sɛbɛ ai ma kosa wo ye ai latanka.  
-\v 2 Aile ye ai mataa wo wuluilu la, wo kojuu kɛlailu la, wo mɔɔilu la mɛnilu ye a magbɛlɛyala wuya rɔ ko ni mɔɔ ma faaninta kɛ a tɛ kisila.  
-\v 3 Adon, andeilu le ra faaninta bɛrɛ kɛ, andeilu mɛnilu ye Alla batola a la Nii Sɛniman baraka rɔ, andeilu mɛnilu ye an wasola Ɲenematɔmɔnin Isa la ko rɔ, andeilu mɛnilu lani tɛ an jɛrɛ faribanku la. 
-\p  
-\v 4 Ni n ye a fɛ, n fanan di se lala n jɛrɛ faribanku la. Ni doilu mirini ko ii ri la ii jɛrɛ faribanku la, n taminni woilu la paaɔn!  
-\v 5 Ka a masɔrɔn n ka faaninta kɛ n sɔrɔn tele seyinna lon de ma. Isirayɛlika le n di, ka bɔ Bɛniyaminu kabila rɔ, Heburuilu la Heburu le nde ri. N fanan tɛrɛ bilani sariya kɔfɛ Farisi mɔɔilu\f + \fr 3.5\fk Farisi mɔɔilu:\ft  Yahudiyailu le tɛrɛ mɔɔ ɲinilu ri mɛnilu bɛnma ko tɛrɛ a ri, ii ye dina mira ɲa kelen ma. Iile le ka ii sɛɛbɛ don Nabi Musa la sariya mira ma ka tamin Yahudiya doilu la. Ii tɛrɛ ye ii benbailu fanan na namunilu mirala gbɛlɛman na. Iile tɛrɛ lani mɛlɛkailu la. Ii lani tɛrɛ a la ko mɔɔilu ri wuli saya rɔ.\f* kɛɲa ma.  
-\v 6 Yahudiya dina komɛ le tɛrɛ n di haan n tɛrɛ ye lemɛniya jama ɲakankatanna. Fɛɛ si tɛrɛ tɛ n na telenna sariya fan fɛ.  
-\v 7 Kɔni n tun da fen mɛnilu jate tɔnɔ ri, sisen n ye woilu jatela bɔnɔ ri Ɲenematɔmɔnin na ko rɔ.  
-\v 8 Kɔni n ye koilu bɛɛ jatela bɔnɔ le ri fisamantɛ ɲin na ko rɔ mɛn kɛni Ɲenematɔmɔnin lɔn ko ri, Isa n Maari. Ka a masɔrɔn n da bɔnɔ ko bɛɛ rɔ a la ko rɔ. N da fen bɛɛ jate bɔɔ ri kosa n ye Ɲenematɔmɔnin sɔrɔn,  
-\v 9 ka yen ale rɔ. N tɛ n jɛrɛ kɛla mɔɔ telenni ri n na sariya mira fɛ, kɔni fo lemɛniya baraka rɔ Ɲenematɔmɔnin ma. Telenbaya le wo ri mɛn bɔni Alla rɔ ka a sɔrɔn lemɛniya baraka rɔ.  
-\v 10 N ye a fɛ sinɛn ka Isa lɔn, a ni fanka mɛn ka a lawuli ka bɔ saya rɔ, an ni ale ye tɔrɔya kelen di, ka kɛ ikomin ale a la saya rɔ  
-\v 11 kosa n fanan ye wuli saya rɔ. 
-\s1 Bori haan a dan 
-\p  
-\v 12 N ma ban wo bɛɛ sɔrɔnna fɔlɔ, ni wo tɛ n tɛrɛ ri dafa. Kɔni n dajani a ɲinin diya kosa n ye n kɔndɔn namira baa Ɲenematɔmɔnin Isa le ka n fanan namira.  
-\v 13 Nba, nakelenɲɔɔmailu, n ka a lɔn, n ma a sɔrɔn fɔlɔ. Kɔni n ye ko kelen de kɛla sisen: ko mɛnilu ye n kɔfɛ, n ye ɲinala woilu ko. Mɛn ye n ɲɛrɔ, n ye karanna se ko rɔ wo le ma ten.  
-\v 14 N ye n borila, kosa n ye wa se a dan ma, ka n kɔndɔn sɔrɔn, Alla ka n kili mɛn ma Ɲenematɔmɔnin Isa baraka rɔ. 
-\p  
-\v 15 Wo le rɔ, andeilu mɛnilu ra kɔɔ lemɛniya rɔ, a ka kan an bɛɛ ye wo yen wo ɲa le ma. Kɔni ni ko gbɛrɛ ye ai le do kɔndɔ, Alla ri wo fanan nagbɛ wo tii yɛ.  
-\v 16 Wo rɔ, an kun lɔni yɔrɔ mɛn na, an ye wa ɲɛfɛ wo ɲa le ma. 
-\p  
-\v 17 Nakelenɲɔɔmailu, ai bɛɛ ye nde ladɛn. Mɔɔ mɛnilu taama ɲa kɛni ikomin an ta, woilu le ye kɛ misali ri ai yɛ.  
-\v 18 N tɛrɛ ra ɲin fɔ ai yɛ siɲa siyaman, n kasitɔla ye a fɔla ai yɛ sisen fanan. Mɔɔ siyaman taamaɲa ka ii kɛ juuilu ri Ɲenematɔmɔnin na gbɔngbɔn jiri\f + \fr 3.18\ft  Romikailu ye mɔɔilu gbɔngbɔnna \+fk Jiri\ft  le ma, ka ii faa. Isa la saya le ɲenemaya banbali lakisi dila mɔɔilu ma, ka a faa jiri kɛ kisi tɔɔmasere ri.\f* kan.  
-\v 19 Wo mɔɔilu ye ii labanna jahanama le rɔ. Ii la alla le ii kɔnɔrɔ natailu ri. Ii la waso ye ii la kɔsɔ koilu le rɔ. Ii mirini dunuɲa koilu ma dɔrɔn.  
-\v 20 Kɔni harijeene duurenilu le andeilu ri. An ye an nakisila le makɔnɔla ka bɔ harijeene, an Maari Isa Ɲenematɔmɔnin.  
-\v 21 A ri an faribanku fankatan yɛlɛman, ii ri to gbiliya rɔ ikomin ale, a ri a kɛ fanka la mɛn di se ko bɛɛ lala a fanka kɔrɔ. 
-\c 4  
-\s1 Pɔli la lalili 
-\p  
-\v 1 Wo le rɔ, nakelenɲɔɔmailu, n kanintenilu n lɔɔ ye mɛnilu la, mɛnilu kɛni sɛwa ni kunnafulen di n yɛ, ai ye to Maari rɔ gben gben ɲa mɛn ma, n kanintenilu. 
-\p  
-\v 2 Ewodi ni Sintiki, n ye ai madiyala, ai bɛn ai ɲɔɔn ma Maari rɔ.  
-\v 3 Ile, n baaraɲɔɔ, landaya mɔɔ, n da i madiya, i ye wo musoilu dɛmɛn ka a masɔrɔn ii ra baara bakɛ n tɔrɔfɛ Isa la ko Kibaro Ɲuma la ko rɔ, wo ni Kelementi ni n duɲɔɔilu bɛɛ mɛnilu tɔɔilu sɛbɛni harijeene don kitabu kɔndɔ. 
-\p  
-\v 4 Ai ye sɛwa Maari la ko rɔ waati bɛɛ. N ye a fɔ fanan, ai ye sɛwa.  
-\v 5 Mɔɔ bɛɛ ye a lɔn ko ai sabarini. Maari natɔla le sisen!  
-\v 6 Ai kana hamin foyi la, kɔni ai ye ai makoilu fɔ Alla matara diya a ni baraka bila rɔ fen bɛɛ rɔ waati bɛɛ.  
-\v 7 Nba, Alla ye jususuma mɛn dila, hankili foyi ti se a famunna, wo ri ai jusu ni ai miriya lakandan Ɲenematɔmɔnin Isa rɔ. 
-\p  
-\v 8 Nba, tɔɔla, nakelenɲɔɔmailu, ko mɛn di kɛ tuɲa ri, ko bɛrɛ, telen, sɛninya, ladiyaɲɛ, gbiliya ye ko mɛn dɔ, ni sɔn ɲuma le a ri, mɛn ka kan ka tandoli sɔrɔn, woilu ye kɛ ai miriyailu ri.  
-\v 9 Ai ra karan mɛnilu sɔrɔn n na, ai ra mɛn namɛn n na wala ka a yen n kɛwaliilu rɔ, ai ye woilu kɛ. Wo rɔ, Alla la jususuma ri to ai fɛ. 
-\s1 Pɔli la baraka bila 
-\p  
-\v 10 N sɛwani Maari la ko rɔ kosɛbɛ baa ai ra ai janto n dɔ ikɔ tuun. Ai hamini tɛrɛ ye n yɛ yati kɔni ai ma fɛrɛ sɔrɔn ai ye a yiraka n na.  
-\v 11 N tɛ ɲin fɔla ai yɛ n mako la ko rɔ, baa n da karan ka wasa kɛɲa su bɛɛ ma.  
-\v 12 N da bolokolonya lɔn, n da dabundɛ lɔn. N da gbundu sɔrɔn ka wasa yɔrɔ bɛɛ ni waati bɛɛ, ni n fani wala ni n dɛsɛni, ni fen siyaman ye n bolo wala dɔɔni, baa  
-\v 13 n di se ko bɛɛ kɛla Isa baraka rɔ mɛn ye fanka dila n ma. 
-\p  
-\v 14 Kɔni hali wo, ai ra koɲuma kɛ ka n dɛmɛn n na tɔrɔyailu rɔ.  
-\v 15 Aile Filipikailu fanan jɛrɛ ka a lɔn, ai ka Isa la ko Kibaro Ɲuma ko mɛn waati mɛn na, n bɔtɔla Masedoni, aile le dɔrɔn ka sanba lana n ma lemɛniya jamailu tɛma.  
-\v 16 Fanan, n tɛrɛ ye Tesaloniki so kɔndɔ waati mɛn na, siɲa fila, ai ka sanbailu lana n ma n mako tɛrɛ ye mɛnilu la.  
-\v 17 N tɛ sanbali ɲininna n jɛrɛ yɛ, kɔni n ye a fɛ le ai ri ai kɔndɔn sɔrɔn.  
-\v 18 Ai ka fen mɛnilu bɛɛ don Epaforodite bolo, n da ii bɛɛ masɔrɔn, woilu ra n makoilu bɛɛ ɲa, ka n wasa. A kɛni de ikomin wusulan mɛn ye janinna saraka ɲuma ri, mɛn ka Alla hɛnɛ.  
-\v 19 Wo rɔ, n na Alla ri ai dɛmɛn ai mako bɛɛ rɔ a la dabundɛ rɔ Ɲenematɔmɔnin Isa baraka rɔ.  
-\v 20 An ye gbiliya di an Fa Alla ma habadan haan habadan. Amina. 
-\s1 Tuwali laban 
-\p  
-\v 21 Ai ye jama sɛniman bɛɛ tuwa mɛnilu ye Isa Ɲenematɔmɔnin dɔ. An nakelenɲɔɔ mɛnilu ye n tɔrɔfɛ yan, woilu fanan ye ai tuwala.  
-\v 22 Jama sɛniman mɛn bɛɛ ye yan, woilu ye ai tuwala, katarabi Rɔmu Mansaba wara mɔɔilu ma. 
-\p  
+\id PHP
+\h Filipikailu Suran
+\toc3 PHP
+\toc1 Filipikailu
+\toc2 FIL
+\mt1 Filipikailu
+\mt2 Pɔli Alla la Kuma Mɛn Nawa Filipikailu Ma
+\ip Isa la Talibidenba Pɔli le Alla la kuma ɲin sɛbɛni Isa la mɔɔilu ma mɛnilu ye siini Filipe so kɔndɔ. Waati taminilu, Pɔli tɛrɛ ra kawandili bɔ ye. Ii lemɛniya ka sabati kosɛbɛ, haan ka Pɔli dɛmɛn a baara ri yɔrɔ gbɛrɛ la. Wo bɛɛ ɲabɔni Keladenilu Kɛwaliilu kitabu yɔrɔ kɔndɔ a suran 16.
+\ip Pɔli ye wa Romi kaso la a lemɛniya la ko rɔ, Alla ka a kɛ a ye kitabu sɛbɛ lemɛniya jamailu ma. Pɔli ka kitabu kelen sɛbɛ Filipikailu ma. A ka ii lalemɛniya kosa ii ye to Alla sawo kɔndɔ, ii fanan ye kɛ misali ɲuma ri mɛn di se a kɛla mɔɔ gbɛrɛ ye bila Isa kɔfɛ. Pɔli ka a labila ii ma ko ii ti se ii jɛrɛ kisila ii baara ɲumailu fɛ, fɔɔ Isa baraka rɔ mɛn a jɛrɛ bɔni sarakayala dunuɲa bɛɛ yɛ.
+\ip Talibidenba Pɔli ka Isa la ko Kibaro Ɲuma kawandili bɔ le Filipe so kɔndɔ Kirikailu jamana rɔ, a ka lemɛniya jama ladɛn damira ye a kelaya taama filana le (Keladenilu Kɛwaliilu suran 16 kuma diya 12 haan 24 ragbɛ). San dando taminni, a ye kaso la waati mɛn na (Filipikailu suran 1 kuma diya 7 ragbɛ), Talibidenba Pɔli ka nakelenɲɔɔya sɛbɛ sɛbɛ Filipikailu ma. A ye a fɛ ii nuwali la ko fen ba la ko rɔ ii tɛrɛ ra mɛnilu lana a ma don Epaforodite bolo, ale jɛrɛ ka tɔrɔya waati mɛn na. A fanan ye a fɛ le a ye a fɔ ii yɛ ko ii ri ii fanka don ii ri a telen Alla la Ɲenematɔmɔnin ɲa kɔrɔ. Ii fanan kana kunfan wuya dinailu fɛ mɛnilu ye ii jamana rɔ.
+\ip Kitabu yɔrɔ ɲin damira (suran 1 kuma diya 1 haan 11), Pɔli ka a sɛwa ni a waliɲuma lɔn de jirakala Filipe lemɛniya mɔɔilu la. Wo kɔ rɔ, a ka a jɛrɛ ɲa ɲafɔ. A ka jususuma mɛn sɔrɔn Isa baraka rɔ, a ka wo yiraka hali a tɛ a lɔn Romikailu ye mɛn kɛla a la kaso la. (Filipikailu suran 1 kuma diya 12 haan 26) A ka ii kawandi ko ii ye to lemɛniya bɛrɛ rɔ, ka bɛn ladon ii tɛma, ka kolo ii ɲɔɔn ma, nii ɲuma tora ii bolo mɛn bɔni Isa ma (suran 1 kuma diya 27 haan suran 2 kuma diya 18). Yani ii fanan ka ii ɲɔɔn yen, Pɔli ka a fɔ, a ye Filipikailu keladen Epaforodite ni Pɔli kɔfɛbilailu Timote ye to ii ni Filipikailu tɛma (Suran 2 kuma diya 19 haan 30).
+\ip Wo kɔ rɔ, Pɔli ka ii lalɔn mɔɔilu ko ma mɛnilu tɛ telenni Isa la ko Kibaro Ɲuma yɛ. A ka a fɔ Filipikailu yɛ ko ii ye to ikomin ale, ka ii fanka don lemɛniya rɔ, ii tora ikomin Isa (Filipikailu suran 3). Kitabu yɔrɔ ɲin rajanni kawandi siyaman de ma ii ni nuwali bɔlailu ni tuwaliilu (Filipikailu suran 4). Ye, Isa la mɔɔilu ye nɔ lemɛniya sɔrɔn Kitabu yɔrɔ ɲin fɛ.
+\c 1
+\s1 Tuwaliilu
+\p 
+\v 1 Nde Pɔli ni Timote, Ɲenematɔmɔnin Isa la baarakɛlailu, an ka ɲin de sɛbɛ ka a lawa aile Ɲenematɔmɔnin na jama sɛniman na mɛnilu ye Filipi so kɔndɔ a ni dina kuntiilu ni dɛmɛnninnailu.
+\v 2 An Fa Alla a ni Maari Isa Ɲenematɔmɔnin ye hina ni jususuma di ai ma.
+\s1 Pɔli la Alla matara Filipe lemɛniya mɔɔilu yɛ
+\p 
+\v 3 Ai la ko wa labila n ma waati si ma, n di baraka bila Alla yɛ.
+\v 4 N ye Alla matarala ai yɛ sɛwa le rɔ waati bɛɛ,
+\v 5 ka a masɔrɔn ai ra n dɛmɛn Isa la ko Kibaro Ɲuma lase diya ka bɔ lon fɔlɔ ma haan bi.
+\v 6 N lani a la fewu, Alla mɛn ka baara ɲuma ɲin damira ai tɛma, a ri a lakanbali haan a la Ɲenematɔmɔnin Isa na lon.
+\v 7 A bɛnni ai bɛɛ la diyaɲɛ ye to n dɔ ɲa kelen dɔ, ka a masɔrɔn ai la ko lamarani n jusu rɔ. Baa ni n sidini jɔlɔkɔ la, wala ni n ye Isa la ko Kibaro Ɲuma kɛlɛ kɛla, ka a ɲabɔ, an bɛɛ ye Alla la sɔli rɔ.
+\v 8 Alla le n sere ri ko ai la lɔɔ ye n na kaninteya bɛrɛ rɔ mɛn bɔni Isa Ɲenematɔmɔnin jɛrɛ rɔ.
+\p 
+\v 9 N na Alla matarali le ɲin di: Ai la kaninteya ye makafu fewu, lɔnnin ni famunyali bɛrɛ la,
+\v 10 kosa ai ye se ko fisamantɛ lɔnna, ka to fɛɛtanya ni joo korontanya rɔ haan Ɲenematɔmɔnin na lon.
+\v 11 Ai ye dafa telenbaya jiriden dɔ mɛnilu ye bɔla Isa Ɲenematɔmɔnin dɔ, Alla gbiliya ko ni a bato ko rɔ.
+\s1 Pɔli ye kaso la
+\p 
+\v 12 Nakelenɲɔɔmailu, n ye a fɛ le, ai ye a lɔn ko mɛnilu kɛra n na, woilu ra Isa la ko Kibaro Ɲuma dɛmɛn, ka wa ɲafɛ.
+\v 13 Ka a masɔrɔn a ra yiraka mansa la bɔlɔn kɔnɔgbɛnna bɛɛ ni mɔɔilu bɛɛ la, ko n ye kaso la Ɲenematɔmɔnin de la ko rɔ,
+\v 14 Nakelenɲɔɔ siyaman, mɛnilu ka ii la landaya la Maari rɔ, baa n bilani kaso la, woilu ra wakali sɔrɔn Alla la kuma lase diya kosɛbɛ, ii ma silan.
+\p 
+\v 15 Tuɲa le wo ri, ii le doilu ye Ɲenematɔmɔnin na ko kawandili bɔla minlɛ ni bɛnbaliya le rɔ, kɔni doilu ye a kɛla wɔnike ɲumaya le rɔ.
+\v 16 Woilu ye a kɛla kaninteya le rɔ, ka a masɔrɔn ii ka a lɔn ko Alla ka n lɔ yan Isa la ko Kibaro Ɲuma la kɛlɛ kɛ ko le rɔ.
+\v 17 Doilu ye Ɲenematɔmɔnin na ko kawandili bɔla nata le rɔ. Ii miriyailu ma ɲi. Ii mirini ko ii ye do lala n na tɔrɔya kan kaso la.
+\p 
+\v 18 Foyi tɛ wo ri. Ni ii miriya kɛra a ɲuma ri, ni a kɛra juuman di, Ɲenematɔmɔnin na ko ra lase ɲa bɛɛ ma. Wo ra n sɛwa, n di to sɛwa rɔ fanan.
+\v 19 Ka a masɔrɔn n ka a lɔn ko wo bɛɛ ye kɛla n na kisi le ri ai la Alla mataraliilu ni Isa Ɲenematɔmɔnin na Nii baraka le rɔ.
+\v 20 N ye mɛn makɔnɔla, ka n jii la a rɔ ko n kana maloya ko si sɔrɔn muumɛ. Kɔni n ye lala a la ten ikomin waati taminniilu rɔ kosa Ɲenematɔmɔnin di gbiliya n faribanku rɔ, ni n tora n nii la, wala ni n faara.
+\v 21 Ka a masɔrɔn Ɲenematɔmɔnin de kɛni nde la dunuɲaratɛɛ ri, ka saya kɛ tɔnɔ ri n yɛ.
+\p 
+\v 22 Kɔni ni n tora nii la faribanku rɔ, n di se baara tɔnɔma do kɛla. N ka kan n ye nfen kɛ? N ma a lɔn.
+\v 23 N gbɛrɛnni ko fila ɲin bɛɛ la: N ye a fɛ ka bɔ dunuɲa ɲin dɔ, ka wa to Ɲenematɔmɔnin tɔrɔfɛ, wo le ka fisa kosɛbɛ.
+\v 24 Kɔni ai le la ko rɔ, a bɛnni n ye to n nii la faribanku rɔ.
+\v 25 Baa n lani wo la, n da a lɔn ko n di to ai tɛma kosa ai ye wa ɲafɛ, ka sɛwa ai la lemɛniya rɔ.
+\v 26 Kosa n wa n kɔsɛ ai tɔrɔfɛ tuma mɛn na, ai ri Ɲenematɔmɔnin Isa matɔɔ makafu n na ko rɔ.
+\p 
+\v 27 Kɔni, ai taama ɲa ye bɛn Ɲenematɔmɔnin na Kibaro Ɲuma ma, kosa ni n di na ai tɔrɔfɛ, wala ni n ye jan, n ye a mɛn de ko ai ye to hankili kelen dɔ, ko ai ye ai bolo don ai ɲɔɔn bolo ka Kibaro Ɲuma lase lemɛniya rɔ.
+\v 28 Ai kana silan ai kɛlɛɲɔɔilu ɲɛrɔ muumɛ! Wo ye a yirakala ii la le ko ii ri halaki, kɔni ai le ri kisi Alla baraka rɔ.
+\v 29 Baa a ra a sɔn a la hina rɔ ko ai ye la Ɲenematɔmɔnin na, wo kelen tɛ kɔni ka tɔrɔ a la ko rɔ fanan,
+\v 30 ai ye to wo kɛlɛ kelen donna, ai ka n yen mɛn donna, ikomin ai ra a mɛn ɲa mɛn ma, haan sisen n ye wo kan.
+\c 2
+\s1 Isa ladɛn ko
+\p 
+\v 1 Wo rɔ, ni Ɲenematɔmɔnin ye fanka si dila ai ma, wala ni a la kaninteya ye masabarili si dila ai ma, wala ni bɛn si ye ai ni Alla la Nii Sɛniman tɛma, wala ni kaninteya ni kininkinin si ye ai rɔ,
+\v 2 nba, ai ye n na sɛwa lakanbali, ka bɛn ai ɲɔɔn ma, ka kaninteya kelen to ai tɛma, ka kɛ jusu ni hankili kelen dɔ.
+\v 3 Ai kana foyi kɛ kɔrɔndiya rɔ wala jɛrɛdabaya rɔ, kɔni ai ye ai jɛrɛ majii, ka doilu jate ka tamin ai jɛrɛ la.
+\v 4 Ai kana ai miri ai makoilu gbansan ma fo doilu fanan ta.
+\p 
+\v 5 Ai kɛɲa ye to ai ɲɔɔn tɛma ikomin Ɲenematɔmɔnin, Isa.
+\q1 
+\v 6 Allaya tɛrɛ ye ale mɛn dɔ,
+\q1 a ma a miri ko a ri wo lamara a jɛrɛ rɔ.
+\q1 
+\v 7 Kɔni a ka a ban a jɛrɛ rɔ,
+\q1 ka a jɛrɛ kɛ jɔn di,
+\q1 ka to adamadenya ɲa ma.
+\q1 A ka adamadenya sɔrɔnni,
+\q1 
+\v 8 a kolora Alla la kuma kɔrɔ
+\q1 ka sɔn saya ma haan a gbɔngbɔnda jiri kan.
+\q1 
+\v 9 Wo le ka a kɛ,
+\q1 Alla ka a lɔdiya fɔlɔ di a ma gbiliya rɔ,
+\q1 ka tɔɔ di a ma
+\q1 mɛn ka bon tɔɔ bɛɛ ri,
+\q1 
+\v 10 kosa mɛnilu bɛɛ ye sankolo ma
+\q1 mɛnilu ye duukolo kan a ni a kɔrɔ,
+\q1 ii wa Isa tɔɔ mɛn waati mɛn na,
+\q1 kunbelen bɛɛ ri ɲɔnkin a kɔrɔ,
+\q1 
+\v 11 nɛn bɛɛ ri a latɛɛ
+\q1 ko Ɲenematɔmɔnin Isa le Maari ri,
+\q1 Fa Alla gbiliya ko rɔ.
+\s1 Ai ye mɛlɛn ikomin kɛnɛya dunuɲa rɔ
+\p 
+\v 12 Wo rɔ, n kanintenilu, ai dorinnin n na kuma mirala ɲa mɛn ma n ɲakɔrɔ, ai ye a mira n kɔma fanan ka tamin wo la ten, ka to ai la kisi ko lakanbalila silan ni yɛrɛyɛrɛ rɔ.
+\v 13 Ka a masɔrɔn Alla le baarala ai rɔ, kosa ai wɔnike ni ai kɛwaliilu ye bɛn a diyana ko ma.
+\p 
+\v 14 Ai ye ko bɛɛ kɛ hali ai kana a kɛ dalakasili ni ko masɔsɔli rɔ,
+\v 15 kosa ai ye kɛ sɔn tɛ mɛnilu la, ka sɛninya. Ai ye kɛ Alla denilu ri, fɛɛ tɛ mɛnilu la, mɛnilu ye mɛlɛnna ikomin loloilu sankolo ma farɔkɛ telenbali ni sɛninyabaliilu tɛma,
+\v 16 ai ri kɛ nii lakisi kuma lasela tuma mɛn na, kosa n ye n waso ai la Ɲenematɔmɔnin na lon ko n na dunuɲaratɛɛ ni n na baara kɛni tɛ ko fuu ri.
+\p 
+\v 17 Hali ni n faara ai yɛ, ka kɛ ikomin minninfen saraka mɛn ye latɔnna ai la ko rɔ, ka la ai la lemɛniya baara kan Alla ɲakɔrɔ mɛn fanan kɛni ikomin saraka, wo rɔ n di sɛwa wo fanan dɔ ai ri sɛwa nde tɔrɔfɛ.
+\v 18 Ai fanan ye sɛwa wo ɲa ma, ka to an ɲɔɔn fɛ sɛwa rɔ.
+\s1 Timɔte ni Epaforodite la ko
+\p 
+\v 19 N jii lani Maari Isa rɔ ko, n di Timote lawa ai ma jona, kosa nde jɛrɛ ri jususuma ɲa mɛn ma ai kibaroilu la ko rɔ.
+\v 20 Mɔɔ gbɛrɛ tɛ n bolo mɛn hamini ai la ko rɔ ikomin ale.
+\v 21 Baa bɛɛ ye tɔnɔ le dɔrɔn ɲininna ii jɛrɛ yɛ. Ii tɛ Isa Ɲenematɔmɔnin ta ɲininna.
+\v 22 Kɔni ai jɛrɛ ka lɔn ko Timɔte ra a kɛɲa yiraka, ka a jɛrɛ kɛ Kibaro Ɲuma baaraden di n tɔrɔfɛ ikomin dencɛ ni a fa.
+\v 23 N ye a fɛ ka a lawa ai ma, n wa n na koilu yen gbɛni waati mɛn na.
+\v 24 N lani a la Maari baraka rɔ ko n fanan jɛrɛ ri wa ai tɔrɔfɛ jona.
+\p 
+\v 25 N da a miri ko a fɛrɛ tɛ ye fo n ye nakelenɲɔɔ Epaforodite lasɛ ai ma ikɔ tuun, n baaraɲɔɔ ni n kɛlɛkɛɲɔɔ, ai ka mɛn nana n ma, ai fenilu di a ma n dɛmɛn ko rɔ.
+\v 26 Ai bɛɛ yen lɔɔ ye a la kosɛbɛ! A ra kunnagboya baa ai ra a la jankarɔ la ko mɛn.
+\v 27 Tuɲa le a ri, a jankarɔra le yati! A tɛrɛ toni dɔɔni a ye faa. Kɔni Alla kininkininda a ma. A ma kininkinin a kelen ma, kɔni nde fanan, kosa wo sunun kana la n na tɔrɔya kan.
+\v 28 Wo le rɔ, n ye a fɛ ka a lawa ai ma jona kosa ai wa a yen waati mɛn na, ai ye sɛwa, n jusu fanan ye la dɔɔni.
+\v 29 Ai ye a lasɛnɛ sɛwa ba rɔ Maari tɔɔ rɔ. Ai ye wo mɔɔ su gbiliya,
+\v 30 baa a tɛrɛ ye faala le Ɲenematɔmɔnin na baara la ko rɔ. A tɛrɛ sɔnni a nii di ko rɔ kosa a ye n dɛmɛn ai le jɛrɛ tɛrɛ ti se mɛn kɛla.
+\c 3
+\s1 Kisi sɔrɔn ko
+\p 
+\v 1 Sisen, nakelenɲɔɔmailu, aile ye sɛwa Maari la! Wo tɛ n tɔrɔ ni n kɔsɛra wo koilu ma n tɛrɛ ra mɛnilu sɛbɛ ai ma kosa wo ye ai latanka.
+\v 2 Aile ye ai mataa wo wuluilu la, wo kojuu kɛlailu la, wo mɔɔilu la mɛnilu ye a magbɛlɛyala wuya rɔ ko ni mɔɔ ma faaninta kɛ a tɛ kisila.
+\v 3 Adon, andeilu le ra faaninta bɛrɛ kɛ, andeilu mɛnilu ye Alla batola a la Nii Sɛniman baraka rɔ, andeilu mɛnilu ye an wasola Ɲenematɔmɔnin Isa la ko rɔ, andeilu mɛnilu lani tɛ an jɛrɛ faribanku la.
+\p 
+\v 4 Ni n ye a fɛ, n fanan di se lala n jɛrɛ faribanku la. Ni doilu mirini ko ii ri la ii jɛrɛ faribanku la, n taminni woilu la paaɔn!
+\v 5 Ka a masɔrɔn n ka faaninta kɛ n sɔrɔn tele seyinna lon de ma. Isirayɛlika le n di, ka bɔ Bɛniyaminu kabila rɔ, Heburuilu la Heburu le nde ri. N fanan tɛrɛ bilani sariya kɔfɛ Farisi mɔɔilu\f + \fr 3.5\fk Farisi mɔɔilu:\ft Yahudiyailu le tɛrɛ mɔɔ ɲinilu ri mɛnilu bɛnma ko tɛrɛ a ri, ii ye dina mira ɲa kelen ma. Iile le ka ii sɛɛbɛ don Nabi Musa la sariya mira ma ka tamin Yahudiya doilu la. Ii tɛrɛ ye ii benbailu fanan na namunilu mirala gbɛlɛman na. Iile tɛrɛ lani mɛlɛkailu la. Ii lani tɛrɛ a la ko mɔɔilu ri wuli saya rɔ.\f* kɛɲa ma.
+\v 6 Yahudiya dina komɛ le tɛrɛ n di haan n tɛrɛ ye lemɛniya jama ɲakankatanna. Fɛɛ si tɛrɛ tɛ n na telenna sariya fan fɛ.
+\v 7 Kɔni n tun da fen mɛnilu jate tɔnɔ ri, sisen n ye woilu jatela bɔnɔ ri Ɲenematɔmɔnin na ko rɔ.
+\v 8 Kɔni n ye koilu bɛɛ jatela bɔnɔ le ri fisamantɛ ɲin na ko rɔ mɛn kɛni Ɲenematɔmɔnin lɔn ko ri, Isa n Maari. Ka a masɔrɔn n da bɔnɔ ko bɛɛ rɔ a la ko rɔ. N da fen bɛɛ jate bɔɔ ri kosa n ye Ɲenematɔmɔnin sɔrɔn,
+\v 9 ka yen ale rɔ. N tɛ n jɛrɛ kɛla mɔɔ telenni ri n na sariya mira fɛ, kɔni fo lemɛniya baraka rɔ Ɲenematɔmɔnin ma. Telenbaya le wo ri mɛn bɔni Alla rɔ ka a sɔrɔn lemɛniya baraka rɔ.
+\v 10 N ye a fɛ sinɛn ka Isa lɔn, a ni fanka mɛn ka a lawuli ka bɔ saya rɔ, an ni ale ye tɔrɔya kelen di, ka kɛ ikomin ale a la saya rɔ
+\v 11 kosa n fanan ye wuli saya rɔ.
+\s1 Bori haan a dan
+\p 
+\v 12 N ma ban wo bɛɛ sɔrɔnna fɔlɔ, ni wo tɛ n tɛrɛ ri dafa. Kɔni n dajani a ɲinin diya kosa n ye n kɔndɔn namira baa Ɲenematɔmɔnin Isa le ka n fanan namira.
+\v 13 Nba, nakelenɲɔɔmailu, n ka a lɔn, n ma a sɔrɔn fɔlɔ. Kɔni n ye ko kelen de kɛla sisen: ko mɛnilu ye n kɔfɛ, n ye ɲinala woilu ko. Mɛn ye n ɲɛrɔ, n ye karanna se ko rɔ wo le ma ten.
+\v 14 N ye n borila, kosa n ye wa se a dan ma, ka n kɔndɔn sɔrɔn, Alla ka n kili mɛn ma Ɲenematɔmɔnin Isa baraka rɔ.
+\p 
+\v 15 Wo le rɔ, andeilu mɛnilu ra kɔɔ lemɛniya rɔ, a ka kan an bɛɛ ye wo yen wo ɲa le ma. Kɔni ni ko gbɛrɛ ye ai le do kɔndɔ, Alla ri wo fanan nagbɛ wo tii yɛ.
+\v 16 Wo rɔ, an kun lɔni yɔrɔ mɛn na, an ye wa ɲɛfɛ wo ɲa le ma.
+\p 
+\v 17 Nakelenɲɔɔmailu, ai bɛɛ ye nde ladɛn. Mɔɔ mɛnilu taama ɲa kɛni ikomin an ta, woilu le ye kɛ misali ri ai yɛ.
+\v 18 N tɛrɛ ra ɲin fɔ ai yɛ siɲa siyaman, n kasitɔla ye a fɔla ai yɛ sisen fanan. Mɔɔ siyaman taamaɲa ka ii kɛ juuilu ri Ɲenematɔmɔnin na gbɔngbɔn jiri\f + \fr 3.18\ft Romikailu ye mɔɔilu gbɔngbɔnna \fk Jiri\ft le ma, ka ii faa. Isa la saya le ɲenemaya banbali lakisi dila mɔɔilu ma, ka a faa jiri kɛ kisi tɔɔmasere ri.\f* kan.
+\v 19 Wo mɔɔilu ye ii labanna jahanama le rɔ. Ii la alla le ii kɔnɔrɔ natailu ri. Ii la waso ye ii la kɔsɔ koilu le rɔ. Ii mirini dunuɲa koilu ma dɔrɔn.
+\v 20 Kɔni harijeene duurenilu le andeilu ri. An ye an nakisila le makɔnɔla ka bɔ harijeene, an Maari Isa Ɲenematɔmɔnin.
+\v 21 A ri an faribanku fankatan yɛlɛman, ii ri to gbiliya rɔ ikomin ale, a ri a kɛ fanka la mɛn di se ko bɛɛ lala a fanka kɔrɔ.
+\c 4
+\s1 Pɔli la lalili
+\p 
+\v 1 Wo le rɔ, nakelenɲɔɔmailu, n kanintenilu n lɔɔ ye mɛnilu la, mɛnilu kɛni sɛwa ni kunnafulen di n yɛ, ai ye to Maari rɔ gben gben ɲa mɛn ma, n kanintenilu.
+\p 
+\v 2 Ewodi ni Sintiki, n ye ai madiyala, ai bɛn ai ɲɔɔn ma Maari rɔ.
+\v 3 Ile, n baaraɲɔɔ, landaya mɔɔ, n da i madiya, i ye wo musoilu dɛmɛn ka a masɔrɔn ii ra baara bakɛ n tɔrɔfɛ Isa la ko Kibaro Ɲuma la ko rɔ, wo ni Kelementi ni n duɲɔɔilu bɛɛ mɛnilu tɔɔilu sɛbɛni harijeene don kitabu kɔndɔ.
+\p 
+\v 4 Ai ye sɛwa Maari la ko rɔ waati bɛɛ. N ye a fɔ fanan, ai ye sɛwa.
+\v 5 Mɔɔ bɛɛ ye a lɔn ko ai sabarini. Maari natɔla le sisen!
+\v 6 Ai kana hamin foyi la, kɔni ai ye ai makoilu fɔ Alla matara diya a ni baraka bila rɔ fen bɛɛ rɔ waati bɛɛ.
+\v 7 Nba, Alla ye jususuma mɛn dila, hankili foyi ti se a famunna, wo ri ai jusu ni ai miriya lakandan Ɲenematɔmɔnin Isa rɔ.
+\p 
+\v 8 Nba, tɔɔla, nakelenɲɔɔmailu, ko mɛn di kɛ tuɲa ri, ko bɛrɛ, telen, sɛninya, ladiyaɲɛ, gbiliya ye ko mɛn dɔ, ni sɔn ɲuma le a ri, mɛn ka kan ka tandoli sɔrɔn, woilu ye kɛ ai miriyailu ri.
+\v 9 Ai ra karan mɛnilu sɔrɔn n na, ai ra mɛn namɛn n na wala ka a yen n kɛwaliilu rɔ, ai ye woilu kɛ. Wo rɔ, Alla la jususuma ri to ai fɛ.
+\s1 Pɔli la baraka bila
+\p 
+\v 10 N sɛwani Maari la ko rɔ kosɛbɛ baa ai ra ai janto n dɔ ikɔ tuun. Ai hamini tɛrɛ ye n yɛ yati kɔni ai ma fɛrɛ sɔrɔn ai ye a yiraka n na.
+\v 11 N tɛ ɲin fɔla ai yɛ n mako la ko rɔ, baa n da karan ka wasa kɛɲa su bɛɛ ma.
+\v 12 N da bolokolonya lɔn, n da dabundɛ lɔn. N da gbundu sɔrɔn ka wasa yɔrɔ bɛɛ ni waati bɛɛ, ni n fani wala ni n dɛsɛni, ni fen siyaman ye n bolo wala dɔɔni, baa
+\v 13 n di se ko bɛɛ kɛla Isa baraka rɔ mɛn ye fanka dila n ma.
+\p 
+\v 14 Kɔni hali wo, ai ra koɲuma kɛ ka n dɛmɛn n na tɔrɔyailu rɔ.
+\v 15 Aile Filipikailu fanan jɛrɛ ka a lɔn, ai ka Isa la ko Kibaro Ɲuma ko mɛn waati mɛn na, n bɔtɔla Masedoni, aile le dɔrɔn ka sanba lana n ma lemɛniya jamailu tɛma.
+\v 16 Fanan, n tɛrɛ ye Tesaloniki so kɔndɔ waati mɛn na, siɲa fila, ai ka sanbailu lana n ma n mako tɛrɛ ye mɛnilu la.
+\v 17 N tɛ sanbali ɲininna n jɛrɛ yɛ, kɔni n ye a fɛ le ai ri ai kɔndɔn sɔrɔn.
+\v 18 Ai ka fen mɛnilu bɛɛ don Epaforodite bolo, n da ii bɛɛ masɔrɔn, woilu ra n makoilu bɛɛ ɲa, ka n wasa. A kɛni de ikomin wusulan mɛn ye janinna saraka ɲuma ri, mɛn ka Alla hɛnɛ.
+\v 19 Wo rɔ, n na Alla ri ai dɛmɛn ai mako bɛɛ rɔ a la dabundɛ rɔ Ɲenematɔmɔnin Isa baraka rɔ.
+\v 20 An ye gbiliya di an Fa Alla ma habadan haan habadan. Amina.
+\s1 Tuwali laban
+\p 
+\v 21 Ai ye jama sɛniman bɛɛ tuwa mɛnilu ye Isa Ɲenematɔmɔnin dɔ. An nakelenɲɔɔ mɛnilu ye n tɔrɔfɛ yan, woilu fanan ye ai tuwala.
+\v 22 Jama sɛniman mɛn bɛɛ ye yan, woilu ye ai tuwala, katarabi Rɔmu Mansaba wara mɔɔilu ma.
+\p 
 \v 23 Maari Isa Ɲenematɔmɔnin na hina ye to ai la.
