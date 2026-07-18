@@ -1,113 +1,113 @@
-\id XXA - preface - conventions 
-\periph Alphabet Page 
-\h L'alphabet 
-\toc2 L'alphabet 
-\toc1 L'alphabet 
-\toc3 L'alphabet 
-\mt1 L'alphabet  
-\m Pour mieux lire ce livre…  
-\b  
-\m L'alphabet officiel dont on se sert est facile à lire. Les symboles qui présentent une certaine difficulté sont les suivants:  
-\tr
-\tc1 j 
-\tc2 se trouve dans 
-\tc3 la paix 
-\tc4 —jàmm ji 
-\tr
-\tc1
-\tc2 et 
-\tc3 dernier 
-\tc4 —mujj 
-\tr
-\tc1 c 
-\tc2 se trouve dans 
-\tc3 le couscous 
-\tc4 —cere ji 
-\tr
-\tc1
-\tc2 et 
-\tc3 descendre 
-\tc4 —wàcc 
-\tr
-\tc1 ñ 
-\tc2 se trouve dans 
-\tc3 tous 
-\tc4 —ñépp 
-\tr
-\tc1
-\tc2 et 
-\tc3 refuser 
-\tc4 —bañ 
-\tr
-\tc1 x 
-\tc2 se trouve dans 
-\tc3 savoir 
-\tc4 —xam 
-\tr
-\tc1
-\tc2 et 
-\tc3 la main 
-\tc4 —loxo bi 
-\tr
-\tc1 ë 
-\tc2 se trouve dans 
-\tc3 l'œil 
-\tc4 —bët bi 
-\tr
-\tc1
-\tc2 et 
-\tc3 demain 
-\tc4 —ëllëg 
-\tr
-\tc1 ŋ 
-\tc2 se trouve dans 
-\tc3 la mâchoire 
-\tc4 —ŋaam wi 
-\tr
-\tc1
-\tc2 et 
-\tc3 seulement 
-\tc4 —doŋŋ 
-\m Une différence existe entre \bdit a\bdit* et \bdit à\bdit*  
-\tr
-\tc1 baigner 
-\tc2 —sang 
-\tc3 revêtir 
-\tc4 —sàng 
-\tr
-\tc1 l'encensoir 
-\tc2 —and bi 
-\tc3 accompagner 
-\tc4 —ànd 
-\m La voyelle est \bdit doublée\bdit* pour indiquer la longueur  
-\tr
-\tc1 valoir 
-\tc2 —jar 
-\tc3 passer par 
-\tc4 —jaar 
-\tr
-\tc1 être propre 
-\tc2 —set 
-\tc3 chercher 
-\tc4 —seet 
-\tr
-\tc1 le cœur 
-\tc2 —xol bi 
-\tc3 regarder 
-\tc4 —xool 
-\tr
-\tc1 le nom 
-\tc2 —tur wi 
-\tc3 répandre 
-\tc4 —tuur 
-\m La voyelle est \bdit accentuée\bdit* pour indiquer la fermeture  
-\tr
-\tc1 souper 
-\tc2 —reer 
-\tc3 être perdu 
-\tc4 —réer 
-\tr
-\tc1 jeûner 
-\tc2 —woor 
-\tc3 être sûr 
+\id XXA - preface - conventions
+\periph Alphabet Page
+\h L'alphabet
+\toc2 L'alphabet
+\toc1 L'alphabet
+\toc3 L'alphabet
+\mt1 L'alphabet
+\m Pour mieux lire ce livre…
+\b
+\m L'alphabet officiel dont on se sert est facile à lire. Les symboles qui présentent une certaine difficulté sont les suivants:
+\tr 
+\tc1 j
+\tc2 se trouve dans
+\tc3 la paix
+\tc4 —jàmm ji
+\tr 
+\tc1 
+\tc2 et
+\tc3 dernier
+\tc4 —mujj
+\tr 
+\tc1 c
+\tc2 se trouve dans
+\tc3 le couscous
+\tc4 —cere ji
+\tr 
+\tc1 
+\tc2 et
+\tc3 descendre
+\tc4 —wàcc
+\tr 
+\tc1 ñ
+\tc2 se trouve dans
+\tc3 tous
+\tc4 —ñépp
+\tr 
+\tc1 
+\tc2 et
+\tc3 refuser
+\tc4 —bañ
+\tr 
+\tc1 x
+\tc2 se trouve dans
+\tc3 savoir
+\tc4 —xam
+\tr 
+\tc1 
+\tc2 et
+\tc3 la main
+\tc4 —loxo bi
+\tr 
+\tc1 ë
+\tc2 se trouve dans
+\tc3 l'œil
+\tc4 —bët bi
+\tr 
+\tc1 
+\tc2 et
+\tc3 demain
+\tc4 —ëllëg
+\tr 
+\tc1 ŋ
+\tc2 se trouve dans
+\tc3 la mâchoire
+\tc4 —ŋaam wi
+\tr 
+\tc1 
+\tc2 et
+\tc3 seulement
+\tc4 —doŋŋ
+\m Une différence existe entre \bdit a\bdit* et \bdit à\bdit*
+\tr 
+\tc1 baigner
+\tc2 —sang
+\tc3 revêtir
+\tc4 —sàng
+\tr 
+\tc1 l'encensoir
+\tc2 —and bi
+\tc3 accompagner
+\tc4 —ànd
+\m La voyelle est \bdit doublée\bdit* pour indiquer la longueur
+\tr 
+\tc1 valoir
+\tc2 —jar
+\tc3 passer par
+\tc4 —jaar
+\tr 
+\tc1 être propre
+\tc2 —set
+\tc3 chercher
+\tc4 —seet
+\tr 
+\tc1 le cœur
+\tc2 —xol bi
+\tc3 regarder
+\tc4 —xool
+\tr 
+\tc1 le nom
+\tc2 —tur wi
+\tc3 répandre
+\tc4 —tuur
+\m La voyelle est \bdit accentuée\bdit* pour indiquer la fermeture
+\tr 
+\tc1 souper
+\tc2 —reer
+\tc3 être perdu
+\tc4 —réer
+\tr 
+\tc1 jeûner
+\tc2 —woor
+\tc3 être sûr
 \tc4 —wóor 
