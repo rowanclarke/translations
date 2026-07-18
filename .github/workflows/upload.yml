@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: rowanclarke/usfm-validator@v1
+      - uses: rowanclarke/usfm-tools@v1
 
       - run: pip install awscli
 
@@ -40,10 +40,12 @@ jobs:
                 --bucket translations \
                 --key "$name.zip" \
                 --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
-                --query 'Metadata.content-hash' \
+                --query 'Metadata."content-hash"' \
                 --output text \
               2>/dev/null || echo ""
             )
+
+            echo "Comparing $hash with $remote_hash"
 
             if [ "$hash" = "$remote_hash" ]; then
               echo "$name unchanged"
@@ -52,17 +54,36 @@ jobs:
 
             echo "Validating $name"
 
-            if ! usfm-validator "$dir"; then
-                echo "Validation failed: $name"
-                continue
+            if ! usfm-tools verify "$dir"; then
+              echo "Validation failed: $name"
+              continue
             fi
 
-            zip -X -r "output/$name.zip" "$dir"
+            if [ -f "$dir/metadata" ]; then
+              echo "Adding metadata"
 
-            aws s3 cp \
-              "output/$name.zip" \
-              "s3://translations/$name.zip" \
-              --metadata content-hash="$hash" \
+              contents=$(usfm-tools contents "$dir")
+              echo "contents: $contents" >> "$dir/metadata"
+            fi
+
+            zip -X -r "output/$name.zip" "$dir" -x "$dir/metadata"
+
+            meta_json="{\"content-hash\":\"$hash\""
+            if [ -f "$dir/metadata" ]; then
+              while IFS= read -r line; do
+                key="${line%%: *}"
+                value="${line#*: }"
+                value=$(printf '%s' "$value" | sed 's/\\/\\\\/g; s/"/\\"/g')
+                meta_json="$meta_json,\"$key\":\"$value\""
+              done < "$dir/metadata"
+            fi
+            meta_json="$meta_json}"
+
+            aws s3api put-object \
+              --bucket translations \
+              --key "$name.zip" \
+              --body "output/$name.zip" \
+              --metadata "$meta_json" \
               --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
           done
 
