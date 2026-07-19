@@ -1,0 +1,33 @@
+{
+  "name": "translations",
+  "main": "src/worker/index.ts",
+  "compatibility_date": "2025-04-01",
+
+  // R2 bucket binding
+  "r2_buckets": [
+    {
+      "binding": "TRANSLATIONS",
+      "bucket_name": "translations"
+    }
+  ],
+
+  // KV namespace for metadata cache
+  "kv_namespaces": [
+    {
+      "binding": "CACHE",
+      "id": "60cdc99c6ded45b78771d4cfa06de4b4"
+    }
+  ],
+
+  // Static assets (built Svelte app)
+  // Platform serves matching files; unmatched routes reach the Worker.
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "none"
+  },
+
+  // Environment variables
+  "vars": {
+    "CACHE_TTL_SECONDS": "3600"
+  }
+}
