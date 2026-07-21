@@ -1,3 +1,4 @@
+import { decode } from "he";
 import type { Env } from "./env";
 import type { TranslationMetadata } from "../lib/types";
 
@@ -25,13 +26,14 @@ export async function fetchAllMetadata(
 
       translations.push({
         id,
-        lang: meta["lang"] ?? id,
-        lang_en: meta["lang_en"] ?? "",
-        title: meta["title"] ?? "",
-        description: meta["description"] ?? "",
-        domain: meta["domain"] ?? "",
-        copyright: meta["copyright"] ?? "",
-        contents: meta["contents"] ?? "",
+        lang: decode(meta["lang"] ?? id),
+        lang_en: decode(meta["lang_en"] ?? ""),
+        title: decode(meta["title"] ?? ""),
+        description: decode(meta["description"] ?? ""),
+        domain: decode(meta["domain"] ?? ""),
+        copyright: decode(meta["copyright"] ?? ""),
+        contents: decode(meta["contents"] ?? ""),
+        bcp47: decode(meta["bcp47"] ?? ""),
         size: obj.size,
       });
     }

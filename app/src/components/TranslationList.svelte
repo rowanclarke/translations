@@ -9,24 +9,18 @@
   let error: string | null = $state(null);
   let search = $state("");
 
-  function decodeHtml(html: string): string {
-    const textarea = document.createElement("textarea");
-    textarea.innerHTML = html;
-    return textarea.value;
-  }
-
   onMount(async () => {
     try {
       const raw = await fetchTranslations();
       translations = raw.map((t) => ({
         ...t,
-        title: decodeHtml(t.title),
-        description: decodeHtml(t.description),
-        domain: decodeHtml(t.domain),
-        copyright: decodeHtml(t.copyright),
-        lang: decodeHtml(t.lang),
-        lang_en: decodeHtml(t.lang_en),
-        contents: decodeHtml(t.contents),
+        title: t.title,
+        description: t.description,
+        domain: t.domain,
+        copyright: t.copyright,
+        lang: t.lang,
+        lang_en: t.lang_en,
+        contents: t.contents,
       }));
     } catch (e) {
       error = e instanceof Error ? e.message : "Failed to load translations";
