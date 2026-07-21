@@ -2,6 +2,15 @@ on:
   push:
     branches: [master]
   workflow_dispatch:
+    inputs:
+      compare:
+        description: 'Compare against deployed versions'
+        type: boolean
+        default: true
+      validate:
+        description: 'Run USFM validation'
+        type: boolean
+        default: true
 
 jobs:
   upload:
@@ -35,28 +44,31 @@ jobs:
               cut -d' ' -f1
             )
 
-            remote_hash=$(
-              aws s3api head-object \
-                --bucket translations \
-                --key "$name.zip" \
-                --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
-                --query 'Metadata."content-hash"' \
-                --output text \
-              2>/dev/null || echo ""
-            )
+            if [ "${{ inputs.compare }}" != "false" ]; then
+              remote_hash=$(
+                aws s3api head-object \
+                  --bucket translations \
+                  --key "$name.zip" \
+                  --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+                  --query 'Metadata."content-hash"' \
+                  --output text \
+                2>/dev/null || echo ""
+              )
 
-            echo "Comparing $hash with $remote_hash"
-
-            if [ "$hash" = "$remote_hash" ]; then
-              echo "$name unchanged"
-              continue
+              echo "Comparing $hash with $remote_hash"
+              if [ "$hash" = "$remote_hash" ]; then
+                echo "$name unchanged"
+                continue
+              fi
             fi
 
-            echo "Validating $name"
+            if [ "${{ inputs.validate }}" != "false" ]; then
+              echo "Validating $name"
 
-            if ! usfm-tools verify "$dir"; then
-              echo "Validation failed: $name"
-              continue
+              if ! usfm-tools verify "$dir"; then
+                echo "Validation failed: $name"
+                continue
+              fi
             fi
 
             if [ -f "$dir/metadata" ]; then
@@ -66,7 +78,7 @@ jobs:
               echo "contents: $contents" >> "$dir/metadata"
             fi
 
-            zip -X -r "output/$name.zip" "$dir" -x "$dir/metadata"
+            (cd "$dir" && zip -X -r "$OLDPWD/output/$name.zip" . -x ./metadata)
 
             meta_json="{\"content-hash\":\"$hash\""
             if [ -f "$dir/metadata" ]; then
